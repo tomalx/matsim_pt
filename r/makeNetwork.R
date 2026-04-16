@@ -127,6 +127,8 @@ nodes <- nodes %>% rename(name = ID)
 network <- network %>% sfnetworks::activate("nodes") %>% st_join(nodes, join=st_intersects)
 
 saveRDS(network, "rds/network/network.rds")
+
+rm(links, nodes)
   
 # paths <- st_network_paths(network, from = "N0GRNF", to = "N0QCRT")
 

@@ -13,6 +13,8 @@
 
 ######### function: list links for route #########
 ### formatGTFS? : create a paths DF instead of function
+library(tictoc)
+library(sfnetworks)
 
 WofEroutes <- c(6515, 6753) #14781,14780
   #(6515,3860,10230,7097,3144, 5265, 4420, 7044, 5835, 6753, 8675,7068,18502,3271,3272,3273,3274,3275,3276)
@@ -24,10 +26,18 @@ WofEroutes <- c(6515, 6753) #14781,14780
 #selectServiceIDs <- services$service_id3[c(1,2,4)]
 
 # get network objects including links and nodes DFs
-source('~/matsim/pt/rScript/makeNetwork.R')
+# if file does not exist, run makeNetwork script to create it.
+if(file.exists("rds/network/network.rds")){
+  network <- readRDS("rds/network/network.rds")
+} else {
+source('r/makeNetwork.R')
+}
+source('r/extractLinks.R')
+source('r/extractNodes.R')
+
 
 # get GTFS data
-source('~/matsim/pt/rScript/formatGTFS.R') #formatGTFS requires makeNetwork to be run first (for network_links object)
+source('r/formatGTFS.R') # imports and formats GTFS txt files
 
 selectServiceIDs <- stopTimes %>% group_by(service_id3, trip_id) %>% count() %>% filter(n >= 2)
 selectServiceIDs <- selectServiceIDs$service_id3 %>% unique()
