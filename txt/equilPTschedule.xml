@@ -1,0 +1,2952 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd"> 
+ 
+<transitSchedule> 
+   <transitStops> 
+     <stopFacility id="010000002" x="358596" y="172845" linkRefId="L0BB72" name="The Centre" isBlocking="false"/>
+     <stopFacility id="0100BRA10783" x="358923" y="173254" linkRefId="L0EP9Q" name="Nelson Street" isBlocking="false"/>
+     <stopFacility id="0100BRP90404" x="359094" y="173442" linkRefId="L0U3XM" name="The Horsefair" isBlocking="false"/>
+     <stopFacility id="0100BRA10785" x="359358" y="173367" linkRefId="L0CU4X" name="Penn Street" isBlocking="false"/>
+     <stopFacility id="0100BRA46646" x="359635" y="173156" linkRefId="L07806" name="Old Market Str" isBlocking="false"/>
+     <stopFacility id="0100BRP90163" x="359840" y="173400" linkRefId="L04NF4" name="Lamb Street" isBlocking="false"/>
+     <stopFacility id="0100BRA46648" x="360282" y="173459" linkRefId="L0AY5V" name="Easton Road" isBlocking="false"/>
+     <stopFacility id="0100BRA46649" x="360608" y="173423" linkRefId="L07NG8" name="Croydon Street" isBlocking="false"/>
+     <stopFacility id="0100BRA10454" x="360855" y="173378" linkRefId="L04NKU" name="Lawrence Hill Station" isBlocking="false"/>
+     <stopFacility id="0100BRA10492" x="360971" y="173602" linkRefId="L021UL" name="Russell Town Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10494" x="361290" y="173803" linkRefId="L0B5J1" name="Devon Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10496" x="361538" y="173795" linkRefId="L0J3KW" name="Lyppiat Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10499" x="361892" y="174039" linkRefId="L0LMGK" name="Gordon Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10501" x="362148" y="174108" linkRefId="L0BDJY" name="Embassy Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10504" x="362510" y="174249" linkRefId="L038TV" name="Crofts End" isBlocking="false"/>
+     <stopFacility id="0100BRA10506" x="362847" y="174301" linkRefId="L0NH2P" name="Ventnor Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10508" x="363166" y="174344" linkRefId="L0GGHL" name="Harewood Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10510" x="363606" y="174350" linkRefId="L0ZU4M" name="Whiteway Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10511" x="363837" y="174326" linkRefId="L063JD" name="Charlton Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10513" x="363980" y="174320" linkRefId="L011CB" name="Dalkeith Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10515" x="364209" y="174329" linkRefId="L01TAG" name="Lodgeside Avenue" isBlocking="false"/>
+     <stopFacility id="0170SGB20396" x="364667" y="174469" linkRefId="L0GLY2" name="Syston Way" isBlocking="false"/>
+     <stopFacility id="0170SGB20397" x="364963" y="174432" linkRefId="L06JHC" name="Northend Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20398" x="365224" y="174386" linkRefId="L0L49H" name="Spring Hill" isBlocking="false"/>
+     <stopFacility id="0170SGB20399" x="365470" y="174284" linkRefId="L06C3V" name="Alma Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20400" x="365785" y="174363" linkRefId="L0KE1B" name="Pinewood" isBlocking="false"/>
+     <stopFacility id="0170SGB20401" x="366126" y="174505" linkRefId="L0TLTD" name="The Made For Ever" isBlocking="false"/>
+     <stopFacility id="0170SGB20402" x="366221" y="174664" linkRefId="L0W73G" name="Siston Common Roundabout" isBlocking="false"/>
+     <stopFacility id="0170SGB20403" x="365972" y="175080" linkRefId="L0W9C1" name="Chiphouse Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20404" x="365877" y="175209" linkRefId="L0BXQD" name="Bridge Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20405" x="365648" y="175297" linkRefId="L0FZ0T" name="Middle Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20406" x="365425" y="175290" linkRefId="L0CBTD" name="Larch Road" isBlocking="false"/>
+     <stopFacility id="0170SGA56548" x="365215" y="175288" linkRefId="L0HH08" name="Gloucester Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20407" x="364940" y="175443" linkRefId="L0X4JQ" name="Morley Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20072" x="364883" y="175814" linkRefId="L0YTEA" name="The Portcullis" isBlocking="false"/>
+     <stopFacility id="0170SGB20408" x="364959" y="175921" linkRefId="L00TL3" name="The Portcullis" isBlocking="false"/>
+     <stopFacility id="0170SGY38492" x="365280" y="175901" linkRefId="L0LNB5" name="Teewell Hill" isBlocking="false"/>
+     <stopFacility id="0170SGB20014" x="365242" y="175888" linkRefId="L0DBMN" name="Teewell Hill" isBlocking="false"/>
+     <stopFacility id="0170SGB20071" x="364900" y="175833" linkRefId="L0VW1Y" name="The Portcullis" isBlocking="false"/>
+     <stopFacility id="0170SGA56547" x="365013" y="175390" linkRefId="L0GR1E" name="Morley Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20411" x="365224" y="175305" linkRefId="L0EX1M" name="Gloucester Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20412" x="365406" y="175301" linkRefId="L0YGPU" name="Larch Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20413" x="365674" y="175303" linkRefId="L0AADV" name="Middle Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20414" x="365944" y="175169" linkRefId="L0LR4K" name="Bridge Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20415" x="366009" y="175038" linkRefId="L015CF" name="Chiphouse Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20416" x="366233" y="174659" linkRefId="L0B1GM" name="Siston Common Roundabout" isBlocking="false"/>
+     <stopFacility id="0170SGB20040" x="366076" y="174387" linkRefId="L01YVZ" name="The Made For Ever" isBlocking="false"/>
+     <stopFacility id="0170SGB20041" x="365766" y="174351" linkRefId="L0CU1Y" name="Pinewood" isBlocking="false"/>
+     <stopFacility id="0170SGB20420" x="365415" y="174278" linkRefId="L0QJ6K" name="Alma Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20421" x="365224" y="174371" linkRefId="L04R6V" name="Spring Hill" isBlocking="false"/>
+     <stopFacility id="0170SGB20422" x="364991" y="174414" linkRefId="L0NBCC" name="Northend Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20423" x="364698" y="174456" linkRefId="L0GQFX" name="Syston Way" isBlocking="false"/>
+     <stopFacility id="0100BRA10516" x="364340" y="174336" linkRefId="L0NFTG" name="Lodgeside Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10514" x="364004" y="174307" linkRefId="L0U7QG" name="Dalkeith Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10512" x="363797" y="174325" linkRefId="L00EUV" name="Charlton Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10509" x="363541" y="174347" linkRefId="L0C753" name="Whiteway Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10507" x="363101" y="174313" linkRefId="L0C2PA" name="Harewood Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10505" x="362812" y="174282" linkRefId="L09803" name="Ventnor Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10502" x="362376" y="174224" linkRefId="L07B9N" name="Crofts End" isBlocking="false"/>
+     <stopFacility id="0100BRA10500" x="362102" y="174074" linkRefId="L0YAT4" name="Embassy Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10498" x="361784" y="173990" linkRefId="L0VWHP" name="Gordon Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10497" x="361517" y="173779" linkRefId="L0H9RM" name="Lyppiat Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10495" x="361257" y="173793" linkRefId="L0Q7RL" name="Devon Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10493" x="361003" y="173505" linkRefId="L0HPV3" name="Russell Town Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10456" x="360853" y="173367" linkRefId="L0K8JL" name="Lawrence Hill Station" isBlocking="false"/>
+     <stopFacility id="0100BRA46651" x="360551" y="173405" linkRefId="L0337H" name="Croydon Street" isBlocking="false"/>
+     <stopFacility id="0100BRA10225" x="360281" y="173394" linkRefId="L04QR3" name="Easton Road" isBlocking="false"/>
+     <stopFacility id="0100BRP90221" x="359945" y="173274" linkRefId="L0DM6T" name="West Street" isBlocking="false"/>
+     <stopFacility id="0100BRA46647" x="359706" y="173174" linkRefId="L0BM6E" name="Old Market Str" isBlocking="false"/>
+     <stopFacility id="0100BRP90354" x="359479" y="173244" linkRefId="L0AXET" name="Cabot Circus South" isBlocking="false"/>
+     <stopFacility id="0100BRP90365" x="359116" y="173530" linkRefId="L0MZM5" name="Bond Street" isBlocking="false"/>
+     <stopFacility id="0100BRP90369" x="358786" y="173259" linkRefId="L0256D" name="Rupert Street" isBlocking="false"/>
+     <stopFacility id="0100BRA10811" x="358609" y="172802" linkRefId="L06N5N" name="The Centre" isBlocking="false"/>
+     <stopFacility id="0170SGB20113" x="364862" y="173720" linkRefId="L07QH1" name="Cecil Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20116" x="364721" y="173877" linkRefId="L0LPY2" name="Kings Chase Centre" isBlocking="false"/>
+     <stopFacility id="0170SGB20123" x="365012" y="173849" linkRefId="L01AGA" name="Clock Tower" isBlocking="false"/>
+     <stopFacility id="0170SGB20124" x="365288" y="173809" linkRefId="L0Z51H" name="Civic Centre" isBlocking="false"/>
+     <stopFacility id="0170SGB20055" x="365375" y="173888" linkRefId="L0WTLJ" name="Kingswood Health Centre" isBlocking="false"/>
+     <stopFacility id="0170SGB20057" x="365566" y="173976" linkRefId="L0A1PJ" name="Shortwoood Drive" isBlocking="false"/>
+     <stopFacility id="0170SGB20060" x="365753" y="174063" linkRefId="L04ZJW" name="Honeyhill Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20062" x="365942" y="174232" linkRefId="L0V5BG" name="Holly Green" isBlocking="false"/>
+     <stopFacility id="0170SGB20063" x="365980" y="174453" linkRefId="L084D0" name="The Ride" isBlocking="false"/>
+     <stopFacility id="0170SGB20064" x="365893" y="174618" linkRefId="L0B4UL" name="Champion Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20065" x="365675" y="174718" linkRefId="L0D7AL" name="Highview Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20066" x="365439" y="174987" linkRefId="L0T5LY" name="Pool Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20425" x="365201" y="175158" linkRefId="L04BBZ" name="St Stephens Close" isBlocking="false"/>
+     <stopFacility id="0170SGB20075" x="364783" y="174987" linkRefId="L0D1KQ" name="The Turnpike" isBlocking="false"/>
+     <stopFacility id="0170SGA19749" x="364628" y="174856" linkRefId="L0K6V8" name="Woodland Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA16942" x="364424" y="174867" linkRefId="L07M52" name="St Bede's Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10866" x="364361" y="175068" linkRefId="L0NCCT" name="Market Square" isBlocking="false"/>
+     <stopFacility id="0100BRA10522" x="364406" y="175385" linkRefId="L0MQLP" name="Rose Walk" isBlocking="false"/>
+     <stopFacility id="0100BRA10524" x="364132" y="175406" linkRefId="L0J3CG" name="Briar Way" isBlocking="false"/>
+     <stopFacility id="0100BRA10527" x="364019" y="175055" linkRefId="L0YP7U" name="Quadrant West" isBlocking="false"/>
+     <stopFacility id="0100BRA10529" x="363890" y="174789" linkRefId="L04M8W" name="Worcester Close" isBlocking="false"/>
+     <stopFacility id="0100BRA10532" x="363623" y="174961" linkRefId="L0GC44" name="Forest Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10534" x="363431" y="174728" linkRefId="L0Y2PM" name="Mayfield Park" isBlocking="false"/>
+     <stopFacility id="0100BRA10536" x="363303" y="174633" linkRefId="L0FYHR" name="Duncombe Lane" isBlocking="false"/>
+     <stopFacility id="0100BRA10537" x="363063" y="174533" linkRefId="L0Z5BA" name="Whitefield Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10540" x="362731" y="174407" linkRefId="L0AVB8" name="Whitewood Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10503" x="362427" y="174268" linkRefId="L0XDTM" name="Crofts End" isBlocking="false"/>
+     <stopFacility id="0100BRA10539" x="362776" y="174424" linkRefId="L05VXG" name="Whitewood Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10538" x="363010" y="174508" linkRefId="L01FCM" name="Whitefield Avenue" isBlocking="false"/>
+     <stopFacility id="0100BRA10535" x="363369" y="174687" linkRefId="L09FMC" name="Duncombe Lane" isBlocking="false"/>
+     <stopFacility id="0100BRA10533" x="363494" y="174828" linkRefId="L04CMD" name="Mayfield Park" isBlocking="false"/>
+     <stopFacility id="0100BRA10531" x="363641" y="174957" linkRefId="L0YMHA" name="Forest Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10530" x="363879" y="174810" linkRefId="L0W3LW" name="Worcester Close" isBlocking="false"/>
+     <stopFacility id="0100BRA10528" x="363969" y="174830" linkRefId="L039PT" name="Heathcote Road" isBlocking="false"/>
+     <stopFacility id="0100BRA10525" x="364041" y="175153" linkRefId="L0P1J6" name="Quadrant West" isBlocking="false"/>
+     <stopFacility id="0100BRA10523" x="364174" y="175466" linkRefId="L0LTTX" name="Briar Way" isBlocking="false"/>
+     <stopFacility id="0100BRA10521" x="364424" y="175387" linkRefId="L0LE44" name="Rose Walk" isBlocking="false"/>
+     <stopFacility id="0100BRA10867" x="364370" y="175083" linkRefId="L0ZGQT" name="Market Square" isBlocking="false"/>
+     <stopFacility id="0100BRA16943" x="364411" y="174875" linkRefId="L00D65" name="St Bede's Road" isBlocking="false"/>
+     <stopFacility id="0100BRA16944" x="364599" y="174877" linkRefId="L0605H" name="Woodland Avenue" isBlocking="false"/>
+     <stopFacility id="0170SGB20076" x="364767" y="174992" linkRefId="L0D4HD" name="The Turnpike" isBlocking="false"/>
+     <stopFacility id="0170SGB20424" x="365006" y="175048" linkRefId="L09K1P" name="Kingswood Leisure Centre" isBlocking="false"/>
+     <stopFacility id="0170SGB20067" x="365203" y="175165" linkRefId="L0ZQMD" name="St Stephens Close" isBlocking="false"/>
+     <stopFacility id="0170SGB20426" x="365423" y="175055" linkRefId="L00PDM" name="Pool Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20427" x="365690" y="174729" linkRefId="L0VRH0" name="Highview Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20428" x="365880" y="174636" linkRefId="L04EW3" name="Champion Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20051" x="365999" y="174410" linkRefId="L0Z04T" name="The Ride" isBlocking="false"/>
+     <stopFacility id="0170SGB20061" x="365932" y="174201" linkRefId="L0W23B" name="Holly Green" isBlocking="false"/>
+     <stopFacility id="0170SGB20059" x="365724" y="174036" linkRefId="L0ZY2K" name="Honeyhill Road" isBlocking="false"/>
+     <stopFacility id="0170SGB20058" x="365578" y="173973" linkRefId="L040DV" name="Shortwood Drive" isBlocking="false"/>
+     <stopFacility id="0170SGB20056" x="365453" y="173907" linkRefId="L0J0DL" name="Kingswood Health Centre" isBlocking="false"/>
+     <stopFacility id="0170SGB20147" x="365266" y="173804" linkRefId="L0J45H" name="Civic Centre" isBlocking="false"/>
+   </transitStops> 
+ 
+ 
+   <transitLine id="6515">
+      <attributes>
+        <attribute name="gtfs_agency_id" class="java.lang.String">OP736</attribute>
+        <attribute name="gtfs_route_short_name" class="java.lang.String">7</attribute>
+        <attribute name="gtfs_route_type" class="java.lang.String">3</attribute>
+      </attributes>
+
+      <transitRoute id="6515_7_266BristolCityCentre36">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0170SGB20014" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20071" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56547" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20411" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20412" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20413" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20414" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20415" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20416" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20040" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20041" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20420" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20421" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20422" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20423" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10516" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10514" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10512" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10509" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10507" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10505" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10502" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10500" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10498" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10497" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10495" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10493" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10456" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46651" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10225" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90221" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46647" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90354" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90365" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90369" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10811" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0DBMN"/>
+         <link refId="L0KAM2"/>
+         <link refId="L0R4EF"/>
+         <link refId="L0C6E5"/>
+         <link refId="L0YQVF"/>
+         <link refId="L0LA54"/>
+         <link refId="L0X5MW"/>
+         <link refId="L0RK02"/>
+         <link refId="L078YM"/>
+         <link refId="L0VW1Y"/>
+         <link refId="L00Q8A"/>
+         <link refId="L09MHZ"/>
+         <link refId="L0MZTP"/>
+         <link refId="L0QQ6M"/>
+         <link refId="L03YZB"/>
+         <link refId="L01AJN"/>
+         <link refId="L07X6Y"/>
+         <link refId="L0G0AQ"/>
+         <link refId="L0GR1E"/>
+         <link refId="L0XMXG"/>
+         <link refId="L0T8MN"/>
+         <link refId="L007AH"/>
+         <link refId="L0GVYE"/>
+         <link refId="L0EX1M"/>
+         <link refId="L0ATDL"/>
+         <link refId="L0YGPU"/>
+         <link refId="L0PC67"/>
+         <link refId="L0PPPN"/>
+         <link refId="L0AADV"/>
+         <link refId="L0YWJL"/>
+         <link refId="L04DTC"/>
+         <link refId="L0LR4K"/>
+         <link refId="L0JZZU"/>
+         <link refId="L015CF"/>
+         <link refId="L02Q1D"/>
+         <link refId="L09HDY"/>
+         <link refId="L01N0Z"/>
+         <link refId="L0207P"/>
+         <link refId="L03C56"/>
+         <link refId="L0WTP7"/>
+         <link refId="L0A88E"/>
+         <link refId="L0NQBU"/>
+         <link refId="L0B1GM"/>
+         <link refId="L0650T"/>
+         <link refId="L0ACQZ"/>
+         <link refId="L0ZKJJ"/>
+         <link refId="L04W47"/>
+         <link refId="L0NNBF"/>
+         <link refId="L0Z2C1"/>
+         <link refId="L0JDJW"/>
+         <link refId="L01YVZ"/>
+         <link refId="L01WM2"/>
+         <link refId="L0ZAGD"/>
+         <link refId="L0FC2Q"/>
+         <link refId="L0FMW5"/>
+         <link refId="L0QYCK"/>
+         <link refId="L0CU1Y"/>
+         <link refId="L0CP2B"/>
+         <link refId="L01F09"/>
+         <link refId="L0QJ6K"/>
+         <link refId="L0YL95"/>
+         <link refId="L0QL7D"/>
+         <link refId="L084M5"/>
+         <link refId="L04R6V"/>
+         <link refId="L0JAEY"/>
+         <link refId="L0ATJL"/>
+         <link refId="L0ZRJD"/>
+         <link refId="L0NBCC"/>
+         <link refId="L0P0LZ"/>
+         <link refId="L0GQFX"/>
+         <link refId="L05W3G"/>
+         <link refId="L0461U"/>
+         <link refId="L0J6G4"/>
+         <link refId="L06CBH"/>
+         <link refId="L04A6L"/>
+         <link refId="L0NFTG"/>
+         <link refId="L06GVZ"/>
+         <link refId="L0UD04"/>
+         <link refId="L0U7QG"/>
+         <link refId="L00EUV"/>
+         <link refId="L0M1QW"/>
+         <link refId="L0K7TX"/>
+         <link refId="L0R3FZ"/>
+         <link refId="L0JCRC"/>
+         <link refId="L0C753"/>
+         <link refId="L06QY8"/>
+         <link refId="L0FNXT"/>
+         <link refId="L02KVK"/>
+         <link refId="L06D9B"/>
+         <link refId="L0PJ7Q"/>
+         <link refId="L0C2PA"/>
+         <link refId="L0BRN5"/>
+         <link refId="L09803"/>
+         <link refId="L0D6LH"/>
+         <link refId="L0RVUB"/>
+         <link refId="L0BPKG"/>
+         <link refId="L0D57G"/>
+         <link refId="L07B9N"/>
+         <link refId="L0RVRG"/>
+         <link refId="L08B2X"/>
+         <link refId="L0J822"/>
+         <link refId="L08PVL"/>
+         <link refId="L0YAT4"/>
+         <link refId="L0F77D"/>
+         <link refId="L0XXN0"/>
+         <link refId="L0JY1T"/>
+         <link refId="L0LN5C"/>
+         <link refId="L0DY4J"/>
+         <link refId="L0PNTK"/>
+         <link refId="L0K42C"/>
+         <link refId="L0VWHP"/>
+         <link refId="L0ECX4"/>
+         <link refId="L0EE9T"/>
+         <link refId="L0APLM"/>
+         <link refId="L0VYT6"/>
+         <link refId="L000EJ"/>
+         <link refId="L0KN56"/>
+         <link refId="L0C1FH"/>
+         <link refId="L0FBUU"/>
+         <link refId="L0H9RM"/>
+         <link refId="L023GG"/>
+         <link refId="L0FK8F"/>
+         <link refId="L0WX5J"/>
+         <link refId="L03RWK"/>
+         <link refId="L0938M"/>
+         <link refId="L0YZGW"/>
+         <link refId="L0Q7RL"/>
+         <link refId="L0E9CX"/>
+         <link refId="L036GA"/>
+         <link refId="L0KLBJ"/>
+         <link refId="L0VUPJ"/>
+         <link refId="L0HPV3"/>
+         <link refId="L02G8J"/>
+         <link refId="L06KCA"/>
+         <link refId="L0MWQH"/>
+         <link refId="L0GP9H"/>
+         <link refId="L0V3BG"/>
+         <link refId="L06GVG"/>
+         <link refId="L0WNWJ"/>
+         <link refId="L04Q7B"/>
+         <link refId="L0K8JL"/>
+         <link refId="L0URY0"/>
+         <link refId="L01B4W"/>
+         <link refId="L0G440"/>
+         <link refId="L0418V"/>
+         <link refId="L04CYA"/>
+         <link refId="L0TY7N"/>
+         <link refId="L0A39C"/>
+         <link refId="L095X9"/>
+         <link refId="L0W9JH"/>
+         <link refId="L0JLLP"/>
+         <link refId="L0337H"/>
+         <link refId="L0MW21"/>
+         <link refId="L0FNYY"/>
+         <link refId="L0745H"/>
+         <link refId="L04QR3"/>
+         <link refId="L03QCF"/>
+         <link refId="L0QM8Q"/>
+         <link refId="L0DM6T"/>
+         <link refId="L05ZFC"/>
+         <link refId="L0XRG8"/>
+         <link refId="L0P8M7"/>
+         <link refId="L0613R"/>
+         <link refId="L0AGWB"/>
+         <link refId="L0XMKF"/>
+         <link refId="L010A9"/>
+         <link refId="L0U79P"/>
+         <link refId="L0J91T"/>
+         <link refId="L0BM6E"/>
+         <link refId="L0UB7D"/>
+         <link refId="L0UL52"/>
+         <link refId="L0W9LC"/>
+         <link refId="L0LL45"/>
+         <link refId="L0D2KP"/>
+         <link refId="L0YTQW"/>
+         <link refId="L0WR6V"/>
+         <link refId="L0EV7L"/>
+         <link refId="L0AXET"/>
+         <link refId="L0HHTF"/>
+         <link refId="L0BW8E"/>
+         <link refId="L0VM6M"/>
+         <link refId="L0JN0X"/>
+         <link refId="L0YKU2"/>
+         <link refId="L0FTYX"/>
+         <link refId="L06GBR"/>
+         <link refId="L064Q3"/>
+         <link refId="L0MZM5"/>
+         <link refId="L0Y74K"/>
+         <link refId="L0G6JP"/>
+         <link refId="L0A3TR"/>
+         <link refId="L0GNK4"/>
+         <link refId="L011GY"/>
+         <link refId="L0422H"/>
+         <link refId="L09942"/>
+         <link refId="L0256D"/>
+         <link refId="L0Q9Z5"/>
+         <link refId="L08T4J"/>
+         <link refId="L07KM0"/>
+         <link refId="L0X8NB"/>
+         <link refId="L025H5"/>
+         <link refId="L0RU1B"/>
+         <link refId="L0VE6R"/>
+         <link refId="L00QZZ"/>
+         <link refId="L0A7DJ"/>
+         <link refId="L06N5N"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ1f49ee7d67c3529b41ad0ac303387969286cb5e6" departureTime="20:57:00" vehicleRefId="bus_6515_001"/>
+         <departure id="VJ205dea5122121f7c2e417e09afe6d1f84903b03d" departureTime="21:57:00" vehicleRefId="bus_6515_002"/>
+         <departure id="VJ3e8aff49b9569e528e41848bb9affb7fff33fe54" departureTime="22:57:00" vehicleRefId="bus_6515_003"/>
+         <departure id="VJ0a49692d0132e5d44cc74c5d59a73b33d338eaea" departureTime="04:58:00" vehicleRefId="bus_6515_004"/>
+         <departure id="VJ2d43fecef1a9559db8fde365a17949987109132e" departureTime="17:20:00" vehicleRefId="bus_6515_005"/>
+         <departure id="VJd278c42234a854b7f4e3545b6f617e144aa4affa" departureTime="19:33:00" vehicleRefId="bus_6515_006"/>
+         <departure id="VJ42d2d1ff921d8d713887b618b5800e6ab40f38ae" departureTime="18:23:00" vehicleRefId="bus_6515_007"/>
+         <departure id="VJ1d6381654929b4b1ff06a47808107422bb9fff88" departureTime="20:00:00" vehicleRefId="bus_6515_008"/>
+         <departure id="VJed68876ef217404b86595c2fb7fc4dd8a92628ed" departureTime="18:43:00" vehicleRefId="bus_6515_009"/>
+         <departure id="VJ290f5e7684bd20f58fca3b01294282ebf73e3b8f" departureTime="19:03:00" vehicleRefId="bus_6515_010"/>
+         <departure id="VJ5b7b2736038db85a67439868843d35a754fe18f3" departureTime="18:03:00" vehicleRefId="bus_6515_011"/>
+         <departure id="VJ50c7f6c65c8002c3208dd789154656041577ccfa" departureTime="17:40:00" vehicleRefId="bus_6515_012"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6515_7_266LawrenceHill29">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0170SGB20014" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20071" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56547" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20411" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20412" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20413" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20414" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20415" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20416" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20040" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20041" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20420" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20421" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20422" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20423" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10516" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10514" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10512" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10509" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10507" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10505" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10502" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10500" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10498" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10497" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10495" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10493" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10456" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46651" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0DBMN"/>
+         <link refId="L0KAM2"/>
+         <link refId="L0R4EF"/>
+         <link refId="L0C6E5"/>
+         <link refId="L0YQVF"/>
+         <link refId="L0LA54"/>
+         <link refId="L0X5MW"/>
+         <link refId="L0RK02"/>
+         <link refId="L078YM"/>
+         <link refId="L0VW1Y"/>
+         <link refId="L00Q8A"/>
+         <link refId="L09MHZ"/>
+         <link refId="L0MZTP"/>
+         <link refId="L0QQ6M"/>
+         <link refId="L03YZB"/>
+         <link refId="L01AJN"/>
+         <link refId="L07X6Y"/>
+         <link refId="L0G0AQ"/>
+         <link refId="L0GR1E"/>
+         <link refId="L0XMXG"/>
+         <link refId="L0T8MN"/>
+         <link refId="L007AH"/>
+         <link refId="L0GVYE"/>
+         <link refId="L0EX1M"/>
+         <link refId="L0ATDL"/>
+         <link refId="L0YGPU"/>
+         <link refId="L0PC67"/>
+         <link refId="L0PPPN"/>
+         <link refId="L0AADV"/>
+         <link refId="L0YWJL"/>
+         <link refId="L04DTC"/>
+         <link refId="L0LR4K"/>
+         <link refId="L0JZZU"/>
+         <link refId="L015CF"/>
+         <link refId="L02Q1D"/>
+         <link refId="L09HDY"/>
+         <link refId="L01N0Z"/>
+         <link refId="L0207P"/>
+         <link refId="L03C56"/>
+         <link refId="L0WTP7"/>
+         <link refId="L0A88E"/>
+         <link refId="L0NQBU"/>
+         <link refId="L0B1GM"/>
+         <link refId="L0650T"/>
+         <link refId="L0ACQZ"/>
+         <link refId="L0ZKJJ"/>
+         <link refId="L04W47"/>
+         <link refId="L0NNBF"/>
+         <link refId="L0Z2C1"/>
+         <link refId="L0JDJW"/>
+         <link refId="L01YVZ"/>
+         <link refId="L01WM2"/>
+         <link refId="L0ZAGD"/>
+         <link refId="L0FC2Q"/>
+         <link refId="L0FMW5"/>
+         <link refId="L0QYCK"/>
+         <link refId="L0CU1Y"/>
+         <link refId="L0CP2B"/>
+         <link refId="L01F09"/>
+         <link refId="L0QJ6K"/>
+         <link refId="L0YL95"/>
+         <link refId="L0QL7D"/>
+         <link refId="L084M5"/>
+         <link refId="L04R6V"/>
+         <link refId="L0JAEY"/>
+         <link refId="L0ATJL"/>
+         <link refId="L0ZRJD"/>
+         <link refId="L0NBCC"/>
+         <link refId="L0P0LZ"/>
+         <link refId="L0GQFX"/>
+         <link refId="L05W3G"/>
+         <link refId="L0461U"/>
+         <link refId="L0J6G4"/>
+         <link refId="L06CBH"/>
+         <link refId="L04A6L"/>
+         <link refId="L0NFTG"/>
+         <link refId="L06GVZ"/>
+         <link refId="L0UD04"/>
+         <link refId="L0U7QG"/>
+         <link refId="L00EUV"/>
+         <link refId="L0M1QW"/>
+         <link refId="L0K7TX"/>
+         <link refId="L0R3FZ"/>
+         <link refId="L0JCRC"/>
+         <link refId="L0C753"/>
+         <link refId="L06QY8"/>
+         <link refId="L0FNXT"/>
+         <link refId="L02KVK"/>
+         <link refId="L06D9B"/>
+         <link refId="L0PJ7Q"/>
+         <link refId="L0C2PA"/>
+         <link refId="L0BRN5"/>
+         <link refId="L09803"/>
+         <link refId="L0D6LH"/>
+         <link refId="L0RVUB"/>
+         <link refId="L0BPKG"/>
+         <link refId="L0D57G"/>
+         <link refId="L07B9N"/>
+         <link refId="L0RVRG"/>
+         <link refId="L08B2X"/>
+         <link refId="L0J822"/>
+         <link refId="L08PVL"/>
+         <link refId="L0YAT4"/>
+         <link refId="L0F77D"/>
+         <link refId="L0XXN0"/>
+         <link refId="L0JY1T"/>
+         <link refId="L0LN5C"/>
+         <link refId="L0DY4J"/>
+         <link refId="L0PNTK"/>
+         <link refId="L0K42C"/>
+         <link refId="L0VWHP"/>
+         <link refId="L0ECX4"/>
+         <link refId="L0EE9T"/>
+         <link refId="L0APLM"/>
+         <link refId="L0VYT6"/>
+         <link refId="L000EJ"/>
+         <link refId="L0KN56"/>
+         <link refId="L0C1FH"/>
+         <link refId="L0FBUU"/>
+         <link refId="L0H9RM"/>
+         <link refId="L023GG"/>
+         <link refId="L0FK8F"/>
+         <link refId="L0WX5J"/>
+         <link refId="L03RWK"/>
+         <link refId="L0938M"/>
+         <link refId="L0YZGW"/>
+         <link refId="L0Q7RL"/>
+         <link refId="L0E9CX"/>
+         <link refId="L036GA"/>
+         <link refId="L0KLBJ"/>
+         <link refId="L0VUPJ"/>
+         <link refId="L0HPV3"/>
+         <link refId="L02G8J"/>
+         <link refId="L06KCA"/>
+         <link refId="L0MWQH"/>
+         <link refId="L0GP9H"/>
+         <link refId="L0V3BG"/>
+         <link refId="L06GVG"/>
+         <link refId="L0WNWJ"/>
+         <link refId="L04Q7B"/>
+         <link refId="L0K8JL"/>
+         <link refId="L0URY0"/>
+         <link refId="L01B4W"/>
+         <link refId="L0G440"/>
+         <link refId="L0418V"/>
+         <link refId="L04CYA"/>
+         <link refId="L0TY7N"/>
+         <link refId="L0A39C"/>
+         <link refId="L095X9"/>
+         <link refId="L0W9JH"/>
+         <link refId="L0JLLP"/>
+         <link refId="L0337H"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ051fe68d0c64a12cafee7901f8741082c9944335" departureTime="20:23:00" vehicleRefId="bus_6515_013"/>
+         <departure id="VJ47c2c8786a3888ceebd088bfd3a982225bcf5833" departureTime="19:08:00" vehicleRefId="bus_6515_014"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6515_7_266StapleHill30">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0100BRA46649" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10454" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10492" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10494" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10496" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10499" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10501" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10504" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10506" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10508" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10510" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10511" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10513" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10515" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20396" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20397" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20398" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20399" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20400" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20401" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20402" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20403" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20404" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20405" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20406" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56548" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20407" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20072" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20408" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0170SGY38492" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L07NG8"/>
+         <link refId="L01U6Y"/>
+         <link refId="L001Z1"/>
+         <link refId="L0MTR8"/>
+         <link refId="L03U15"/>
+         <link refId="L0WUDF"/>
+         <link refId="L0KWFH"/>
+         <link refId="L0VQ7C"/>
+         <link refId="L0H0RD"/>
+         <link refId="L04NKU"/>
+         <link refId="L0ZA6J"/>
+         <link refId="L0DU3J"/>
+         <link refId="L0AFFV"/>
+         <link refId="L02A63"/>
+         <link refId="L02ADA"/>
+         <link refId="L01XCB"/>
+         <link refId="L0HT3K"/>
+         <link refId="L036FR"/>
+         <link refId="L021UL"/>
+         <link refId="L0QHYL"/>
+         <link refId="L0UWHP"/>
+         <link refId="L0D4D3"/>
+         <link refId="L0BXYA"/>
+         <link refId="L0B5J1"/>
+         <link refId="L0PJY0"/>
+         <link refId="L0A8YC"/>
+         <link refId="L0EBJ8"/>
+         <link refId="L01G10"/>
+         <link refId="L0LR7W"/>
+         <link refId="L0TVX3"/>
+         <link refId="L0J3KW"/>
+         <link refId="L0KAZJ"/>
+         <link refId="L0RA82"/>
+         <link refId="L0AYBG"/>
+         <link refId="L0F2ZR"/>
+         <link refId="L0YLRT"/>
+         <link refId="L0EV91"/>
+         <link refId="L06CEC"/>
+         <link refId="L06R3F"/>
+         <link refId="L034KT"/>
+         <link refId="L0NWYZ"/>
+         <link refId="L0LMGK"/>
+         <link refId="L09RFF"/>
+         <link refId="L0NK1R"/>
+         <link refId="L0E5QW"/>
+         <link refId="L0PYAY"/>
+         <link refId="L0E1WX"/>
+         <link refId="L01JEX"/>
+         <link refId="L0KLLH"/>
+         <link refId="L0BDJY"/>
+         <link refId="L0B0H6"/>
+         <link refId="L0KZ6M"/>
+         <link refId="L09KLJ"/>
+         <link refId="L0GV47"/>
+         <link refId="L038TV"/>
+         <link refId="L0MVQ6"/>
+         <link refId="L044MH"/>
+         <link refId="L0NH2P"/>
+         <link refId="L0EC90"/>
+         <link refId="L0Y6EP"/>
+         <link refId="L0GGHL"/>
+         <link refId="L0CZF4"/>
+         <link refId="L0YAJG"/>
+         <link refId="L0T9B5"/>
+         <link refId="L0KGUH"/>
+         <link refId="L0ZU4M"/>
+         <link refId="L0Y4G5"/>
+         <link refId="L0T8UU"/>
+         <link refId="L0858V"/>
+         <link refId="L0TCM6"/>
+         <link refId="L063JD"/>
+         <link refId="L011CB"/>
+         <link refId="L0UFQ9"/>
+         <link refId="L06VZF"/>
+         <link refId="L01TAG"/>
+         <link refId="L0CVUH"/>
+         <link refId="L05ZAC"/>
+         <link refId="L015RY"/>
+         <link refId="L0GXQH"/>
+         <link refId="L0GLY2"/>
+         <link refId="L00RX4"/>
+         <link refId="L0B257"/>
+         <link refId="L06JHC"/>
+         <link refId="L0WHKM"/>
+         <link refId="L0FBKQ"/>
+         <link refId="L0CRRJ"/>
+         <link refId="L0L49H"/>
+         <link refId="L08P3J"/>
+         <link refId="L02VZ1"/>
+         <link refId="L06C3V"/>
+         <link refId="L0JQH7"/>
+         <link refId="L02AGV"/>
+         <link refId="L0KE1B"/>
+         <link refId="L0ZF9H"/>
+         <link refId="L0KVCB"/>
+         <link refId="L0W1UZ"/>
+         <link refId="L0X36R"/>
+         <link refId="L03KXH"/>
+         <link refId="L0TA9K"/>
+         <link refId="L0FD8D"/>
+         <link refId="L0PJWX"/>
+         <link refId="L0TLTD"/>
+         <link refId="L0W73G"/>
+         <link refId="L0W0ED"/>
+         <link refId="L0AQ6L"/>
+         <link refId="L0TN3L"/>
+         <link refId="L0H78W"/>
+         <link refId="L0REQU"/>
+         <link refId="L027Q4"/>
+         <link refId="L0B60N"/>
+         <link refId="L0W9C1"/>
+         <link refId="L014KH"/>
+         <link refId="L0BXQD"/>
+         <link refId="L0R1XA"/>
+         <link refId="L0FZ0T"/>
+         <link refId="L0QM93"/>
+         <link refId="L05RK7"/>
+         <link refId="L0CBTD"/>
+         <link refId="L07KB8"/>
+         <link refId="L0HH08"/>
+         <link refId="L0DAYN"/>
+         <link refId="L0W9JD"/>
+         <link refId="L049GB"/>
+         <link refId="L0LJPP"/>
+         <link refId="L0W8HT"/>
+         <link refId="L07GRB"/>
+         <link refId="L0MAW1"/>
+         <link refId="L0X4JQ"/>
+         <link refId="L0105H"/>
+         <link refId="L086YK"/>
+         <link refId="L062MJ"/>
+         <link refId="L01YQF"/>
+         <link refId="L0YTEA"/>
+         <link refId="L0N00W"/>
+         <link refId="L0Y3H4"/>
+         <link refId="L00TL3"/>
+         <link refId="L0VUB4"/>
+         <link refId="L0YNEP"/>
+         <link refId="L0MLA5"/>
+         <link refId="L0H607"/>
+         <link refId="L03ZAE"/>
+         <link refId="L0L767"/>
+         <link refId="L0GXFE"/>
+         <link refId="L0LNB5"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJe1b65b852d0ca12852658dd0fe90e3de082cc1bf" departureTime="04:31:00" vehicleRefId="bus_6515_015"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6515_7_266StapleHill37">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="010000002" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10783" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90404" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10785" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46646" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90163" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46648" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46649" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10454" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10492" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10494" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10496" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10499" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10501" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10504" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10506" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10508" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10510" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10511" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10513" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10515" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20396" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20397" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20398" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20399" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20400" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20401" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20402" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20403" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20404" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20405" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20406" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56548" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20407" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20072" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20408" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true" /> 
+          <stop refId="0170SGY38492" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0BB72"/>
+         <link refId="L0YKG5"/>
+         <link refId="L0JPLU"/>
+         <link refId="L017T7"/>
+         <link refId="L0CQNM"/>
+         <link refId="L0XRR0"/>
+         <link refId="L0UEJG"/>
+         <link refId="L064BK"/>
+         <link refId="L0CQKZ"/>
+         <link refId="L04EQR"/>
+         <link refId="L0CWC6"/>
+         <link refId="L080NJ"/>
+         <link refId="L0EKT5"/>
+         <link refId="L0Y89R"/>
+         <link refId="L0E14R"/>
+         <link refId="L0EP9Q"/>
+         <link refId="LXP105"/>
+         <link refId="L0H3D7"/>
+         <link refId="L0U3XM"/>
+         <link refId="L0B7LB"/>
+         <link refId="L0CU4X"/>
+         <link refId="L0XQ8R"/>
+         <link refId="L01B5M"/>
+         <link refId="L0RD1L"/>
+         <link refId="L0P70K"/>
+         <link refId="L0L251"/>
+         <link refId="L0E66C"/>
+         <link refId="L0579Q"/>
+         <link refId="L0EV7L"/>
+         <link refId="L01TJZ"/>
+         <link refId="L02VQW"/>
+         <link refId="L0FLJC"/>
+         <link refId="L04QRP"/>
+         <link refId="L061Q4"/>
+         <link refId="L07806"/>
+         <link refId="L038WG"/>
+         <link refId="L0W2V7"/>
+         <link refId="L0APL3"/>
+         <link refId="L0FYD2"/>
+         <link refId="L0F03P"/>
+         <link refId="L0QJKK"/>
+         <link refId="L0ERGV"/>
+         <link refId="L04NF4"/>
+         <link refId="L0CYPH"/>
+         <link refId="L0CNVN"/>
+         <link refId="L0P289"/>
+         <link refId="L0VUD3"/>
+         <link refId="L0FJWL"/>
+         <link refId="L06E6E"/>
+         <link refId="L03QN2"/>
+         <link refId="L0LT0V"/>
+         <link refId="L0AY5V"/>
+         <link refId="L0GBDD"/>
+         <link refId="L04UAA"/>
+         <link refId="L0K5L8"/>
+         <link refId="L01D58"/>
+         <link refId="L07NG8"/>
+         <link refId="L01U6Y"/>
+         <link refId="L001Z1"/>
+         <link refId="L0MTR8"/>
+         <link refId="L03U15"/>
+         <link refId="L0WUDF"/>
+         <link refId="L0KWFH"/>
+         <link refId="L0VQ7C"/>
+         <link refId="L0H0RD"/>
+         <link refId="L04NKU"/>
+         <link refId="L0ZA6J"/>
+         <link refId="L0DU3J"/>
+         <link refId="L0AFFV"/>
+         <link refId="L02A63"/>
+         <link refId="L02ADA"/>
+         <link refId="L01XCB"/>
+         <link refId="L0HT3K"/>
+         <link refId="L036FR"/>
+         <link refId="L021UL"/>
+         <link refId="L0QHYL"/>
+         <link refId="L0UWHP"/>
+         <link refId="L0D4D3"/>
+         <link refId="L0BXYA"/>
+         <link refId="L0B5J1"/>
+         <link refId="L0PJY0"/>
+         <link refId="L0A8YC"/>
+         <link refId="L0EBJ8"/>
+         <link refId="L01G10"/>
+         <link refId="L0LR7W"/>
+         <link refId="L0TVX3"/>
+         <link refId="L0J3KW"/>
+         <link refId="L0KAZJ"/>
+         <link refId="L0RA82"/>
+         <link refId="L0AYBG"/>
+         <link refId="L0F2ZR"/>
+         <link refId="L0YLRT"/>
+         <link refId="L0EV91"/>
+         <link refId="L06CEC"/>
+         <link refId="L06R3F"/>
+         <link refId="L034KT"/>
+         <link refId="L0NWYZ"/>
+         <link refId="L0LMGK"/>
+         <link refId="L09RFF"/>
+         <link refId="L0NK1R"/>
+         <link refId="L0E5QW"/>
+         <link refId="L0PYAY"/>
+         <link refId="L0E1WX"/>
+         <link refId="L01JEX"/>
+         <link refId="L0KLLH"/>
+         <link refId="L0BDJY"/>
+         <link refId="L0B0H6"/>
+         <link refId="L0KZ6M"/>
+         <link refId="L09KLJ"/>
+         <link refId="L0GV47"/>
+         <link refId="L038TV"/>
+         <link refId="L0MVQ6"/>
+         <link refId="L044MH"/>
+         <link refId="L0NH2P"/>
+         <link refId="L0EC90"/>
+         <link refId="L0Y6EP"/>
+         <link refId="L0GGHL"/>
+         <link refId="L0CZF4"/>
+         <link refId="L0YAJG"/>
+         <link refId="L0T9B5"/>
+         <link refId="L0KGUH"/>
+         <link refId="L0ZU4M"/>
+         <link refId="L0Y4G5"/>
+         <link refId="L0T8UU"/>
+         <link refId="L0858V"/>
+         <link refId="L0TCM6"/>
+         <link refId="L063JD"/>
+         <link refId="L011CB"/>
+         <link refId="L0UFQ9"/>
+         <link refId="L06VZF"/>
+         <link refId="L01TAG"/>
+         <link refId="L0CVUH"/>
+         <link refId="L05ZAC"/>
+         <link refId="L015RY"/>
+         <link refId="L0GXQH"/>
+         <link refId="L0GLY2"/>
+         <link refId="L00RX4"/>
+         <link refId="L0B257"/>
+         <link refId="L06JHC"/>
+         <link refId="L0WHKM"/>
+         <link refId="L0FBKQ"/>
+         <link refId="L0CRRJ"/>
+         <link refId="L0L49H"/>
+         <link refId="L08P3J"/>
+         <link refId="L02VZ1"/>
+         <link refId="L06C3V"/>
+         <link refId="L0JQH7"/>
+         <link refId="L02AGV"/>
+         <link refId="L0KE1B"/>
+         <link refId="L0ZF9H"/>
+         <link refId="L0KVCB"/>
+         <link refId="L0W1UZ"/>
+         <link refId="L0X36R"/>
+         <link refId="L03KXH"/>
+         <link refId="L0TA9K"/>
+         <link refId="L0FD8D"/>
+         <link refId="L0PJWX"/>
+         <link refId="L0TLTD"/>
+         <link refId="L0W73G"/>
+         <link refId="L0W0ED"/>
+         <link refId="L0AQ6L"/>
+         <link refId="L0TN3L"/>
+         <link refId="L0H78W"/>
+         <link refId="L0REQU"/>
+         <link refId="L027Q4"/>
+         <link refId="L0B60N"/>
+         <link refId="L0W9C1"/>
+         <link refId="L014KH"/>
+         <link refId="L0BXQD"/>
+         <link refId="L0R1XA"/>
+         <link refId="L0FZ0T"/>
+         <link refId="L0QM93"/>
+         <link refId="L05RK7"/>
+         <link refId="L0CBTD"/>
+         <link refId="L07KB8"/>
+         <link refId="L0HH08"/>
+         <link refId="L0DAYN"/>
+         <link refId="L0W9JD"/>
+         <link refId="L049GB"/>
+         <link refId="L0LJPP"/>
+         <link refId="L0W8HT"/>
+         <link refId="L07GRB"/>
+         <link refId="L0MAW1"/>
+         <link refId="L0X4JQ"/>
+         <link refId="L0105H"/>
+         <link refId="L086YK"/>
+         <link refId="L062MJ"/>
+         <link refId="L01YQF"/>
+         <link refId="L0YTEA"/>
+         <link refId="L0N00W"/>
+         <link refId="L0Y3H4"/>
+         <link refId="L00TL3"/>
+         <link refId="L0VUB4"/>
+         <link refId="L0YNEP"/>
+         <link refId="L0MLA5"/>
+         <link refId="L0H607"/>
+         <link refId="L03ZAE"/>
+         <link refId="L0L767"/>
+         <link refId="L0GXFE"/>
+         <link refId="L0LNB5"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJf517c06ddbc93453773bb198c01e7456d0916430" departureTime="23:10:00" vehicleRefId="bus_6515_016"/>
+         <departure id="VJ76c95273d6981c4f1c93f52d8f01f4e7900ed803" departureTime="21:10:00" vehicleRefId="bus_6515_017"/>
+         <departure id="VJ70bbe04e83715238e9d7f24a9d3f978cfc143c6a" departureTime="22:10:00" vehicleRefId="bus_6515_018"/>
+         <departure id="VJe4049cac2165374f70e9c1b99c14cd33b7c73f0a" departureTime="17:05:00" vehicleRefId="bus_6515_019"/>
+         <departure id="VJca71d773a1ad7fe35e2c92f9d5c1af9c418a15db" departureTime="18:25:00" vehicleRefId="bus_6515_020"/>
+         <departure id="VJc6f6b861ef831de1237f6047865b92de5071531e" departureTime="18:45:00" vehicleRefId="bus_6515_021"/>
+         <departure id="VJbce7959ae494ad903dcf8253dce4c7553802e448" departureTime="19:10:00" vehicleRefId="bus_6515_022"/>
+         <departure id="VJe7c04a0ba081d0d8ebc6eb97e20a1ef8d9728730" departureTime="18:05:00" vehicleRefId="bus_6515_023"/>
+         <departure id="VJbe50f633b31f1e244dc8a510a3f5cf64cc30a315" departureTime="19:40:00" vehicleRefId="bus_6515_024"/>
+         <departure id="VJe9ce8d878479dc6a7ec5eb7eee5377e174b9af7b" departureTime="17:45:00" vehicleRefId="bus_6515_025"/>
+         <departure id="VJc15a8426431a05db4f702e83b11cb1fb2e4b2a35" departureTime="06:45:00" vehicleRefId="bus_6515_026"/>
+         <departure id="VJ7d18a499645355a2d4ed4271807f41246e8ca318" departureTime="20:10:00" vehicleRefId="bus_6515_027"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6515_7_310BristolCityCentre36">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0170SGB20014" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20071" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56547" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20411" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20412" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20413" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20414" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20415" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20416" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20040" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20041" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20420" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20421" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20422" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20423" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10516" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10514" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10512" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10509" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10507" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10505" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10502" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10500" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10498" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10497" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10495" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10493" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10456" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46651" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10225" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90221" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46647" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90354" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90365" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90369" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10811" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0DBMN"/>
+         <link refId="L0KAM2"/>
+         <link refId="L0R4EF"/>
+         <link refId="L0C6E5"/>
+         <link refId="L0YQVF"/>
+         <link refId="L0LA54"/>
+         <link refId="L0X5MW"/>
+         <link refId="L0RK02"/>
+         <link refId="L078YM"/>
+         <link refId="L0VW1Y"/>
+         <link refId="L00Q8A"/>
+         <link refId="L09MHZ"/>
+         <link refId="L0MZTP"/>
+         <link refId="L0QQ6M"/>
+         <link refId="L03YZB"/>
+         <link refId="L01AJN"/>
+         <link refId="L07X6Y"/>
+         <link refId="L0G0AQ"/>
+         <link refId="L0GR1E"/>
+         <link refId="L0XMXG"/>
+         <link refId="L0T8MN"/>
+         <link refId="L007AH"/>
+         <link refId="L0GVYE"/>
+         <link refId="L0EX1M"/>
+         <link refId="L0ATDL"/>
+         <link refId="L0YGPU"/>
+         <link refId="L0PC67"/>
+         <link refId="L0PPPN"/>
+         <link refId="L0AADV"/>
+         <link refId="L0YWJL"/>
+         <link refId="L04DTC"/>
+         <link refId="L0LR4K"/>
+         <link refId="L0JZZU"/>
+         <link refId="L015CF"/>
+         <link refId="L02Q1D"/>
+         <link refId="L09HDY"/>
+         <link refId="L01N0Z"/>
+         <link refId="L0207P"/>
+         <link refId="L03C56"/>
+         <link refId="L0WTP7"/>
+         <link refId="L0A88E"/>
+         <link refId="L0NQBU"/>
+         <link refId="L0B1GM"/>
+         <link refId="L0650T"/>
+         <link refId="L0ACQZ"/>
+         <link refId="L0ZKJJ"/>
+         <link refId="L04W47"/>
+         <link refId="L0NNBF"/>
+         <link refId="L0Z2C1"/>
+         <link refId="L0JDJW"/>
+         <link refId="L01YVZ"/>
+         <link refId="L01WM2"/>
+         <link refId="L0ZAGD"/>
+         <link refId="L0FC2Q"/>
+         <link refId="L0FMW5"/>
+         <link refId="L0QYCK"/>
+         <link refId="L0CU1Y"/>
+         <link refId="L0CP2B"/>
+         <link refId="L01F09"/>
+         <link refId="L0QJ6K"/>
+         <link refId="L0YL95"/>
+         <link refId="L0QL7D"/>
+         <link refId="L084M5"/>
+         <link refId="L04R6V"/>
+         <link refId="L0JAEY"/>
+         <link refId="L0ATJL"/>
+         <link refId="L0ZRJD"/>
+         <link refId="L0NBCC"/>
+         <link refId="L0P0LZ"/>
+         <link refId="L0GQFX"/>
+         <link refId="L05W3G"/>
+         <link refId="L0461U"/>
+         <link refId="L0J6G4"/>
+         <link refId="L06CBH"/>
+         <link refId="L04A6L"/>
+         <link refId="L0NFTG"/>
+         <link refId="L06GVZ"/>
+         <link refId="L0UD04"/>
+         <link refId="L0U7QG"/>
+         <link refId="L00EUV"/>
+         <link refId="L0M1QW"/>
+         <link refId="L0K7TX"/>
+         <link refId="L0R3FZ"/>
+         <link refId="L0JCRC"/>
+         <link refId="L0C753"/>
+         <link refId="L06QY8"/>
+         <link refId="L0FNXT"/>
+         <link refId="L02KVK"/>
+         <link refId="L06D9B"/>
+         <link refId="L0PJ7Q"/>
+         <link refId="L0C2PA"/>
+         <link refId="L0BRN5"/>
+         <link refId="L09803"/>
+         <link refId="L0D6LH"/>
+         <link refId="L0RVUB"/>
+         <link refId="L0BPKG"/>
+         <link refId="L0D57G"/>
+         <link refId="L07B9N"/>
+         <link refId="L0RVRG"/>
+         <link refId="L08B2X"/>
+         <link refId="L0J822"/>
+         <link refId="L08PVL"/>
+         <link refId="L0YAT4"/>
+         <link refId="L0F77D"/>
+         <link refId="L0XXN0"/>
+         <link refId="L0JY1T"/>
+         <link refId="L0LN5C"/>
+         <link refId="L0DY4J"/>
+         <link refId="L0PNTK"/>
+         <link refId="L0K42C"/>
+         <link refId="L0VWHP"/>
+         <link refId="L0ECX4"/>
+         <link refId="L0EE9T"/>
+         <link refId="L0APLM"/>
+         <link refId="L0VYT6"/>
+         <link refId="L000EJ"/>
+         <link refId="L0KN56"/>
+         <link refId="L0C1FH"/>
+         <link refId="L0FBUU"/>
+         <link refId="L0H9RM"/>
+         <link refId="L023GG"/>
+         <link refId="L0FK8F"/>
+         <link refId="L0WX5J"/>
+         <link refId="L03RWK"/>
+         <link refId="L0938M"/>
+         <link refId="L0YZGW"/>
+         <link refId="L0Q7RL"/>
+         <link refId="L0E9CX"/>
+         <link refId="L036GA"/>
+         <link refId="L0KLBJ"/>
+         <link refId="L0VUPJ"/>
+         <link refId="L0HPV3"/>
+         <link refId="L02G8J"/>
+         <link refId="L06KCA"/>
+         <link refId="L0MWQH"/>
+         <link refId="L0GP9H"/>
+         <link refId="L0V3BG"/>
+         <link refId="L06GVG"/>
+         <link refId="L0WNWJ"/>
+         <link refId="L04Q7B"/>
+         <link refId="L0K8JL"/>
+         <link refId="L0URY0"/>
+         <link refId="L01B4W"/>
+         <link refId="L0G440"/>
+         <link refId="L0418V"/>
+         <link refId="L04CYA"/>
+         <link refId="L0TY7N"/>
+         <link refId="L0A39C"/>
+         <link refId="L095X9"/>
+         <link refId="L0W9JH"/>
+         <link refId="L0JLLP"/>
+         <link refId="L0337H"/>
+         <link refId="L0MW21"/>
+         <link refId="L0FNYY"/>
+         <link refId="L0745H"/>
+         <link refId="L04QR3"/>
+         <link refId="L03QCF"/>
+         <link refId="L0QM8Q"/>
+         <link refId="L0DM6T"/>
+         <link refId="L05ZFC"/>
+         <link refId="L0XRG8"/>
+         <link refId="L0P8M7"/>
+         <link refId="L0613R"/>
+         <link refId="L0AGWB"/>
+         <link refId="L0XMKF"/>
+         <link refId="L010A9"/>
+         <link refId="L0U79P"/>
+         <link refId="L0J91T"/>
+         <link refId="L0BM6E"/>
+         <link refId="L0UB7D"/>
+         <link refId="L0UL52"/>
+         <link refId="L0W9LC"/>
+         <link refId="L0LL45"/>
+         <link refId="L0D2KP"/>
+         <link refId="L0YTQW"/>
+         <link refId="L0WR6V"/>
+         <link refId="L0EV7L"/>
+         <link refId="L0AXET"/>
+         <link refId="L0HHTF"/>
+         <link refId="L0BW8E"/>
+         <link refId="L0VM6M"/>
+         <link refId="L0JN0X"/>
+         <link refId="L0YKU2"/>
+         <link refId="L0FTYX"/>
+         <link refId="L06GBR"/>
+         <link refId="L064Q3"/>
+         <link refId="L0MZM5"/>
+         <link refId="L0Y74K"/>
+         <link refId="L0G6JP"/>
+         <link refId="L0A3TR"/>
+         <link refId="L0GNK4"/>
+         <link refId="L011GY"/>
+         <link refId="L0422H"/>
+         <link refId="L09942"/>
+         <link refId="L0256D"/>
+         <link refId="L0Q9Z5"/>
+         <link refId="L08T4J"/>
+         <link refId="L07KM0"/>
+         <link refId="L0X8NB"/>
+         <link refId="L025H5"/>
+         <link refId="L0RU1B"/>
+         <link refId="L0VE6R"/>
+         <link refId="L00QZZ"/>
+         <link refId="L0A7DJ"/>
+         <link refId="L06N5N"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJe20294850dad02d561e12a025eb393409ae8cab1" departureTime="04:30:00" vehicleRefId="bus_6515_028"/>
+         <departure id="VJd6226d59c94f7ebe35b398ee2b283714cfe5847b" departureTime="06:06:00" vehicleRefId="bus_6515_029"/>
+         <departure id="VJ580693f3efe9cbdf680c3b89fa2acd25ad048e3c" departureTime="06:26:00" vehicleRefId="bus_6515_030"/>
+         <departure id="VJ061549d9b8e7fc25b160acdef2b56d97c0353a22" departureTime="05:23:00" vehicleRefId="bus_6515_031"/>
+         <departure id="VJa480020d95d18b9e0088f34bc2bd8322befaafc8" departureTime="05:43:00" vehicleRefId="bus_6515_032"/>
+         <departure id="VJ21d734cc75da6655d6c0090e48daf05d6875e2d0" departureTime="08:02:00" vehicleRefId="bus_6515_033"/>
+         <departure id="VJcea0b9911689a62e4865519732af3ed6780b9418" departureTime="08:22:00" vehicleRefId="bus_6515_034"/>
+         <departure id="VJc9acdc7484ad4c8ecbc552e5b31f7f1d0f977d55" departureTime="07:02:00" vehicleRefId="bus_6515_035"/>
+         <departure id="VJ37b4c76069a9797e5b133bec1a0d0a380d4b039c" departureTime="07:22:00" vehicleRefId="bus_6515_036"/>
+         <departure id="VJb54378a6f13f45c81a28a8405200afc088b0b53a" departureTime="07:42:00" vehicleRefId="bus_6515_037"/>
+         <departure id="VJ6b5592dd548f3756722f4e8db360079089ba75ef" departureTime="11:47:00" vehicleRefId="bus_6515_038"/>
+         <departure id="VJd0186c738404eb305ebcff9bf61e6f1cb151aef7" departureTime="12:07:00" vehicleRefId="bus_6515_039"/>
+         <departure id="VJ95f3ecbff6b244c3aab309637cd79bca723d413d" departureTime="10:07:00" vehicleRefId="bus_6515_040"/>
+         <departure id="VJ55e30fd784d6c7adb5864dcebefc6b9382495360" departureTime="13:47:00" vehicleRefId="bus_6515_041"/>
+         <departure id="VJ61a80b8f510ebeea3c78f1fe0ce356ddedc0e046" departureTime="09:47:00" vehicleRefId="bus_6515_042"/>
+         <departure id="VJafa257bf19c86c0a11aa86ca1d6aeb90dbf81bb6" departureTime="10:47:00" vehicleRefId="bus_6515_043"/>
+         <departure id="VJ9a7c4b3f30ab926452c450644f376ddce389a3a6" departureTime="12:27:00" vehicleRefId="bus_6515_044"/>
+         <departure id="VJf0b6e30ccf2d0b913923f98e2dd36ab42a851050" departureTime="13:27:00" vehicleRefId="bus_6515_045"/>
+         <departure id="VJ08316658456e801cbcd5a187628703634512cf6c" departureTime="11:07:00" vehicleRefId="bus_6515_046"/>
+         <departure id="VJb841ae9abefae9e41bebcf5cf628695a7e0948c7" departureTime="09:07:00" vehicleRefId="bus_6515_047"/>
+         <departure id="VJ48bffd38479eac0c7c8055899ded2424ee41a267" departureTime="12:47:00" vehicleRefId="bus_6515_048"/>
+         <departure id="VJ06d2bca6b14d8489e2b17a9e3591df35038ff677" departureTime="11:27:00" vehicleRefId="bus_6515_049"/>
+         <departure id="VJf013b9c20f73265ffbc36e9d79a295977268dfec" departureTime="10:27:00" vehicleRefId="bus_6515_050"/>
+         <departure id="VJf6a474a95c33fcbb01a0407230c8f892534a5a8f" departureTime="09:27:00" vehicleRefId="bus_6515_051"/>
+         <departure id="VJ758ceea9e6d610354102fe4135c3ad69909f701f" departureTime="13:07:00" vehicleRefId="bus_6515_052"/>
+         <departure id="VJdf354de8205a49fa187c52d01a46e90dabafdae8" departureTime="15:35:00" vehicleRefId="bus_6515_053"/>
+         <departure id="VJf1f1e27332cee89ba72ada70c62e4d6d9b4bd944" departureTime="15:55:00" vehicleRefId="bus_6515_054"/>
+         <departure id="VJcafaa3368879286e2f3578f9371a9f2885aca7cb" departureTime="16:15:00" vehicleRefId="bus_6515_055"/>
+         <departure id="VJ37c9e9bd7f9e5c21c8bd36e45a7d1baf346233a6" departureTime="14:50:00" vehicleRefId="bus_6515_056"/>
+         <departure id="VJ6ec934fed1c9970a5751219c5d8bf72b7b3926fc" departureTime="16:40:00" vehicleRefId="bus_6515_057"/>
+         <departure id="VJ634f800442f25e77bd3747aba73a2307e95269b7" departureTime="15:10:00" vehicleRefId="bus_6515_058"/>
+         <departure id="VJ0eab6b7d5b94d96cca5c132e68f8138634157b19" departureTime="17:00:00" vehicleRefId="bus_6515_059"/>
+         <departure id="VJ8f0713caceb07ce66a109a8607ce4fc09d1c6893" departureTime="14:26:00" vehicleRefId="bus_6515_060"/>
+         <departure id="VJ3ff0de8bde263d6ce49d269b9430b3256233ff89" departureTime="08:44:00" vehicleRefId="bus_6515_061"/>
+         <departure id="VJ55870ba6f900fed0304e3d2b3e592bd488e7ceb6" departureTime="06:46:00" vehicleRefId="bus_6515_062"/>
+         <departure id="VJ5e311f9ff476f5a1aefd4d3958673e58a9b2117d" departureTime="14:07:00" vehicleRefId="bus_6515_063"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6515_7_310StapleHill30">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0100BRA46649" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10454" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10492" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10494" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10496" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10499" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10501" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10504" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10506" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10508" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10510" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10511" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10513" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10515" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20396" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20397" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20398" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20399" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20400" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20401" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20402" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20403" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20404" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20405" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20406" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56548" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20407" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20072" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20408" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0170SGY38492" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L07NG8"/>
+         <link refId="L01U6Y"/>
+         <link refId="L001Z1"/>
+         <link refId="L0MTR8"/>
+         <link refId="L03U15"/>
+         <link refId="L0WUDF"/>
+         <link refId="L0KWFH"/>
+         <link refId="L0VQ7C"/>
+         <link refId="L0H0RD"/>
+         <link refId="L04NKU"/>
+         <link refId="L0ZA6J"/>
+         <link refId="L0DU3J"/>
+         <link refId="L0AFFV"/>
+         <link refId="L02A63"/>
+         <link refId="L02ADA"/>
+         <link refId="L01XCB"/>
+         <link refId="L0HT3K"/>
+         <link refId="L036FR"/>
+         <link refId="L021UL"/>
+         <link refId="L0QHYL"/>
+         <link refId="L0UWHP"/>
+         <link refId="L0D4D3"/>
+         <link refId="L0BXYA"/>
+         <link refId="L0B5J1"/>
+         <link refId="L0PJY0"/>
+         <link refId="L0A8YC"/>
+         <link refId="L0EBJ8"/>
+         <link refId="L01G10"/>
+         <link refId="L0LR7W"/>
+         <link refId="L0TVX3"/>
+         <link refId="L0J3KW"/>
+         <link refId="L0KAZJ"/>
+         <link refId="L0RA82"/>
+         <link refId="L0AYBG"/>
+         <link refId="L0F2ZR"/>
+         <link refId="L0YLRT"/>
+         <link refId="L0EV91"/>
+         <link refId="L06CEC"/>
+         <link refId="L06R3F"/>
+         <link refId="L034KT"/>
+         <link refId="L0NWYZ"/>
+         <link refId="L0LMGK"/>
+         <link refId="L09RFF"/>
+         <link refId="L0NK1R"/>
+         <link refId="L0E5QW"/>
+         <link refId="L0PYAY"/>
+         <link refId="L0E1WX"/>
+         <link refId="L01JEX"/>
+         <link refId="L0KLLH"/>
+         <link refId="L0BDJY"/>
+         <link refId="L0B0H6"/>
+         <link refId="L0KZ6M"/>
+         <link refId="L09KLJ"/>
+         <link refId="L0GV47"/>
+         <link refId="L038TV"/>
+         <link refId="L0MVQ6"/>
+         <link refId="L044MH"/>
+         <link refId="L0NH2P"/>
+         <link refId="L0EC90"/>
+         <link refId="L0Y6EP"/>
+         <link refId="L0GGHL"/>
+         <link refId="L0CZF4"/>
+         <link refId="L0YAJG"/>
+         <link refId="L0T9B5"/>
+         <link refId="L0KGUH"/>
+         <link refId="L0ZU4M"/>
+         <link refId="L0Y4G5"/>
+         <link refId="L0T8UU"/>
+         <link refId="L0858V"/>
+         <link refId="L0TCM6"/>
+         <link refId="L063JD"/>
+         <link refId="L011CB"/>
+         <link refId="L0UFQ9"/>
+         <link refId="L06VZF"/>
+         <link refId="L01TAG"/>
+         <link refId="L0CVUH"/>
+         <link refId="L05ZAC"/>
+         <link refId="L015RY"/>
+         <link refId="L0GXQH"/>
+         <link refId="L0GLY2"/>
+         <link refId="L00RX4"/>
+         <link refId="L0B257"/>
+         <link refId="L06JHC"/>
+         <link refId="L0WHKM"/>
+         <link refId="L0FBKQ"/>
+         <link refId="L0CRRJ"/>
+         <link refId="L0L49H"/>
+         <link refId="L08P3J"/>
+         <link refId="L02VZ1"/>
+         <link refId="L06C3V"/>
+         <link refId="L0JQH7"/>
+         <link refId="L02AGV"/>
+         <link refId="L0KE1B"/>
+         <link refId="L0ZF9H"/>
+         <link refId="L0KVCB"/>
+         <link refId="L0W1UZ"/>
+         <link refId="L0X36R"/>
+         <link refId="L03KXH"/>
+         <link refId="L0TA9K"/>
+         <link refId="L0FD8D"/>
+         <link refId="L0PJWX"/>
+         <link refId="L0TLTD"/>
+         <link refId="L0W73G"/>
+         <link refId="L0W0ED"/>
+         <link refId="L0AQ6L"/>
+         <link refId="L0TN3L"/>
+         <link refId="L0H78W"/>
+         <link refId="L0REQU"/>
+         <link refId="L027Q4"/>
+         <link refId="L0B60N"/>
+         <link refId="L0W9C1"/>
+         <link refId="L014KH"/>
+         <link refId="L0BXQD"/>
+         <link refId="L0R1XA"/>
+         <link refId="L0FZ0T"/>
+         <link refId="L0QM93"/>
+         <link refId="L05RK7"/>
+         <link refId="L0CBTD"/>
+         <link refId="L07KB8"/>
+         <link refId="L0HH08"/>
+         <link refId="L0DAYN"/>
+         <link refId="L0W9JD"/>
+         <link refId="L049GB"/>
+         <link refId="L0LJPP"/>
+         <link refId="L0W8HT"/>
+         <link refId="L07GRB"/>
+         <link refId="L0MAW1"/>
+         <link refId="L0X4JQ"/>
+         <link refId="L0105H"/>
+         <link refId="L086YK"/>
+         <link refId="L062MJ"/>
+         <link refId="L01YQF"/>
+         <link refId="L0YTEA"/>
+         <link refId="L0N00W"/>
+         <link refId="L0Y3H4"/>
+         <link refId="L00TL3"/>
+         <link refId="L0VUB4"/>
+         <link refId="L0YNEP"/>
+         <link refId="L0MLA5"/>
+         <link refId="L0H607"/>
+         <link refId="L03ZAE"/>
+         <link refId="L0L767"/>
+         <link refId="L0GXFE"/>
+         <link refId="L0LNB5"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJfd1daa16358c79b41d683a5b6e0d09f8ccc9a7ef" departureTime="04:56:00" vehicleRefId="bus_6515_064"/>
+         <departure id="VJ8799a496cc75c37e3749f6e356e0cb6b66840250" departureTime="05:16:00" vehicleRefId="bus_6515_065"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6515_7_310StapleHill37">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="010000002" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10783" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90404" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10785" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46646" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90163" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46648" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46649" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10454" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10492" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10494" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10496" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10499" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10501" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10504" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10506" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10508" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10510" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10511" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10513" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10515" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20396" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20397" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20398" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20399" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20400" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20401" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20402" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20403" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20404" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20405" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20406" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA56548" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20407" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20072" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20408" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0170SGY38492" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0BB72"/>
+         <link refId="L0YKG5"/>
+         <link refId="L0JPLU"/>
+         <link refId="L017T7"/>
+         <link refId="L0CQNM"/>
+         <link refId="L0XRR0"/>
+         <link refId="L0UEJG"/>
+         <link refId="L064BK"/>
+         <link refId="L0CQKZ"/>
+         <link refId="L04EQR"/>
+         <link refId="L0CWC6"/>
+         <link refId="L080NJ"/>
+         <link refId="L0EKT5"/>
+         <link refId="L0Y89R"/>
+         <link refId="L0E14R"/>
+         <link refId="L0EP9Q"/>
+         <link refId="LXP105"/>
+         <link refId="L0H3D7"/>
+         <link refId="L0U3XM"/>
+         <link refId="L0B7LB"/>
+         <link refId="L0CU4X"/>
+         <link refId="L0XQ8R"/>
+         <link refId="L01B5M"/>
+         <link refId="L0RD1L"/>
+         <link refId="L0P70K"/>
+         <link refId="L0L251"/>
+         <link refId="L0E66C"/>
+         <link refId="L0579Q"/>
+         <link refId="L0EV7L"/>
+         <link refId="L01TJZ"/>
+         <link refId="L02VQW"/>
+         <link refId="L0FLJC"/>
+         <link refId="L04QRP"/>
+         <link refId="L061Q4"/>
+         <link refId="L07806"/>
+         <link refId="L038WG"/>
+         <link refId="L0W2V7"/>
+         <link refId="L0APL3"/>
+         <link refId="L0FYD2"/>
+         <link refId="L0F03P"/>
+         <link refId="L0QJKK"/>
+         <link refId="L0ERGV"/>
+         <link refId="L04NF4"/>
+         <link refId="L0CYPH"/>
+         <link refId="L0CNVN"/>
+         <link refId="L0P289"/>
+         <link refId="L0VUD3"/>
+         <link refId="L0FJWL"/>
+         <link refId="L06E6E"/>
+         <link refId="L03QN2"/>
+         <link refId="L0LT0V"/>
+         <link refId="L0AY5V"/>
+         <link refId="L0GBDD"/>
+         <link refId="L04UAA"/>
+         <link refId="L0K5L8"/>
+         <link refId="L01D58"/>
+         <link refId="L07NG8"/>
+         <link refId="L01U6Y"/>
+         <link refId="L001Z1"/>
+         <link refId="L0MTR8"/>
+         <link refId="L03U15"/>
+         <link refId="L0WUDF"/>
+         <link refId="L0KWFH"/>
+         <link refId="L0VQ7C"/>
+         <link refId="L0H0RD"/>
+         <link refId="L04NKU"/>
+         <link refId="L0ZA6J"/>
+         <link refId="L0DU3J"/>
+         <link refId="L0AFFV"/>
+         <link refId="L02A63"/>
+         <link refId="L02ADA"/>
+         <link refId="L01XCB"/>
+         <link refId="L0HT3K"/>
+         <link refId="L036FR"/>
+         <link refId="L021UL"/>
+         <link refId="L0QHYL"/>
+         <link refId="L0UWHP"/>
+         <link refId="L0D4D3"/>
+         <link refId="L0BXYA"/>
+         <link refId="L0B5J1"/>
+         <link refId="L0PJY0"/>
+         <link refId="L0A8YC"/>
+         <link refId="L0EBJ8"/>
+         <link refId="L01G10"/>
+         <link refId="L0LR7W"/>
+         <link refId="L0TVX3"/>
+         <link refId="L0J3KW"/>
+         <link refId="L0KAZJ"/>
+         <link refId="L0RA82"/>
+         <link refId="L0AYBG"/>
+         <link refId="L0F2ZR"/>
+         <link refId="L0YLRT"/>
+         <link refId="L0EV91"/>
+         <link refId="L06CEC"/>
+         <link refId="L06R3F"/>
+         <link refId="L034KT"/>
+         <link refId="L0NWYZ"/>
+         <link refId="L0LMGK"/>
+         <link refId="L09RFF"/>
+         <link refId="L0NK1R"/>
+         <link refId="L0E5QW"/>
+         <link refId="L0PYAY"/>
+         <link refId="L0E1WX"/>
+         <link refId="L01JEX"/>
+         <link refId="L0KLLH"/>
+         <link refId="L0BDJY"/>
+         <link refId="L0B0H6"/>
+         <link refId="L0KZ6M"/>
+         <link refId="L09KLJ"/>
+         <link refId="L0GV47"/>
+         <link refId="L038TV"/>
+         <link refId="L0MVQ6"/>
+         <link refId="L044MH"/>
+         <link refId="L0NH2P"/>
+         <link refId="L0EC90"/>
+         <link refId="L0Y6EP"/>
+         <link refId="L0GGHL"/>
+         <link refId="L0CZF4"/>
+         <link refId="L0YAJG"/>
+         <link refId="L0T9B5"/>
+         <link refId="L0KGUH"/>
+         <link refId="L0ZU4M"/>
+         <link refId="L0Y4G5"/>
+         <link refId="L0T8UU"/>
+         <link refId="L0858V"/>
+         <link refId="L0TCM6"/>
+         <link refId="L063JD"/>
+         <link refId="L011CB"/>
+         <link refId="L0UFQ9"/>
+         <link refId="L06VZF"/>
+         <link refId="L01TAG"/>
+         <link refId="L0CVUH"/>
+         <link refId="L05ZAC"/>
+         <link refId="L015RY"/>
+         <link refId="L0GXQH"/>
+         <link refId="L0GLY2"/>
+         <link refId="L00RX4"/>
+         <link refId="L0B257"/>
+         <link refId="L06JHC"/>
+         <link refId="L0WHKM"/>
+         <link refId="L0FBKQ"/>
+         <link refId="L0CRRJ"/>
+         <link refId="L0L49H"/>
+         <link refId="L08P3J"/>
+         <link refId="L02VZ1"/>
+         <link refId="L06C3V"/>
+         <link refId="L0JQH7"/>
+         <link refId="L02AGV"/>
+         <link refId="L0KE1B"/>
+         <link refId="L0ZF9H"/>
+         <link refId="L0KVCB"/>
+         <link refId="L0W1UZ"/>
+         <link refId="L0X36R"/>
+         <link refId="L03KXH"/>
+         <link refId="L0TA9K"/>
+         <link refId="L0FD8D"/>
+         <link refId="L0PJWX"/>
+         <link refId="L0TLTD"/>
+         <link refId="L0W73G"/>
+         <link refId="L0W0ED"/>
+         <link refId="L0AQ6L"/>
+         <link refId="L0TN3L"/>
+         <link refId="L0H78W"/>
+         <link refId="L0REQU"/>
+         <link refId="L027Q4"/>
+         <link refId="L0B60N"/>
+         <link refId="L0W9C1"/>
+         <link refId="L014KH"/>
+         <link refId="L0BXQD"/>
+         <link refId="L0R1XA"/>
+         <link refId="L0FZ0T"/>
+         <link refId="L0QM93"/>
+         <link refId="L05RK7"/>
+         <link refId="L0CBTD"/>
+         <link refId="L07KB8"/>
+         <link refId="L0HH08"/>
+         <link refId="L0DAYN"/>
+         <link refId="L0W9JD"/>
+         <link refId="L049GB"/>
+         <link refId="L0LJPP"/>
+         <link refId="L0W8HT"/>
+         <link refId="L07GRB"/>
+         <link refId="L0MAW1"/>
+         <link refId="L0X4JQ"/>
+         <link refId="L0105H"/>
+         <link refId="L086YK"/>
+         <link refId="L062MJ"/>
+         <link refId="L01YQF"/>
+         <link refId="L0YTEA"/>
+         <link refId="L0N00W"/>
+         <link refId="L0Y3H4"/>
+         <link refId="L00TL3"/>
+         <link refId="L0VUB4"/>
+         <link refId="L0YNEP"/>
+         <link refId="L0MLA5"/>
+         <link refId="L0H607"/>
+         <link refId="L03ZAE"/>
+         <link refId="L0L767"/>
+         <link refId="L0GXFE"/>
+         <link refId="L0LNB5"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ64d378d81d797fdfbe3de660a0368740ecd6d372" departureTime="05:10:00" vehicleRefId="bus_6515_066"/>
+         <departure id="VJc88ea34a7c50e424296ab83c0c40eb1080c81b68" departureTime="05:40:00" vehicleRefId="bus_6515_067"/>
+         <departure id="VJf9c2b256040656f803b9275cdbd659359f17726c" departureTime="06:15:00" vehicleRefId="bus_6515_068"/>
+         <departure id="VJfeded108f0b46c093822062cf9d0d0ff9c9d1307" departureTime="06:30:00" vehicleRefId="bus_6515_069"/>
+         <departure id="VJ4d2b72339d2e4f79be606a81ca0566d4b8292d6e" departureTime="06:00:00" vehicleRefId="bus_6515_070"/>
+         <departure id="VJe207ffb2717b0d9282d0437bff00356b3cb1d069" departureTime="10:50:00" vehicleRefId="bus_6515_071"/>
+         <departure id="VJ07fe71da9bd575c45c133d01b1773d19be557e59" departureTime="11:10:00" vehicleRefId="bus_6515_072"/>
+         <departure id="VJe134210cb7ea68dbbf39880b72b238ccbe5f405d" departureTime="09:10:00" vehicleRefId="bus_6515_073"/>
+         <departure id="VJf65e8edcc859b4ca82c74db2aa02733c3963b060" departureTime="12:50:00" vehicleRefId="bus_6515_074"/>
+         <departure id="VJ6b0a5b2029820f7f19a7eb17f0ecf5e15341b897" departureTime="09:50:00" vehicleRefId="bus_6515_075"/>
+         <departure id="VJ5615686441e0beecb4f2aa3ff683cc909d82d1f7" departureTime="13:30:00" vehicleRefId="bus_6515_076"/>
+         <departure id="VJ2d26e1fd043dfa558494fb907b18b59054856426" departureTime="12:30:00" vehicleRefId="bus_6515_077"/>
+         <departure id="VJ64f318f77cc6b5f8f089688d633c387b23893ffd" departureTime="11:30:00" vehicleRefId="bus_6515_078"/>
+         <departure id="VJ27ecf2cb180af301714ace9a0f7b1e5d8fdf6289" departureTime="10:10:00" vehicleRefId="bus_6515_079"/>
+         <departure id="VJe3ed409f22e12965389561fb11bd0bb9d4c7fcd1" departureTime="13:50:00" vehicleRefId="bus_6515_080"/>
+         <departure id="VJ1ef7d8c6ad657d3dde45a5ec0c6e1e2e24628ad9" departureTime="11:50:00" vehicleRefId="bus_6515_081"/>
+         <departure id="VJ28cb97b245f7be150df24cc64a5abad850a2a697" departureTime="10:30:00" vehicleRefId="bus_6515_082"/>
+         <departure id="VJd66d891f51da0a6b7940896e0821629b9ca95e8e" departureTime="09:30:00" vehicleRefId="bus_6515_083"/>
+         <departure id="VJ46b6bc4c68743633e88f5a24b3cf6a914985b90e" departureTime="13:10:00" vehicleRefId="bus_6515_084"/>
+         <departure id="VJ93492c85fbf0b1b163af426da87437d9323aaa77" departureTime="12:10:00" vehicleRefId="bus_6515_085"/>
+         <departure id="VJ87d03b7d33f83f39fd1f36670f5ddb1ab3c85039" departureTime="07:05:00" vehicleRefId="bus_6515_086"/>
+         <departure id="VJ635069133eba3bc34d52e52cb4eccf125fc217a7" departureTime="07:25:00" vehicleRefId="bus_6515_087"/>
+         <departure id="VJbf4c7fd758b230533bb443857af7469610e89a1e" departureTime="07:50:00" vehicleRefId="bus_6515_088"/>
+         <departure id="VJ98f1e8eeda7c7b7082686d906408914d3bf40961" departureTime="08:10:00" vehicleRefId="bus_6515_089"/>
+         <departure id="VJ21aac694f86677cbfb3eba1de77ee61258a5fdc0" departureTime="14:30:00" vehicleRefId="bus_6515_090"/>
+         <departure id="VJcb48cb414bad9352a05a1e9a7a4cccffa88da046" departureTime="14:50:00" vehicleRefId="bus_6515_091"/>
+         <departure id="VJ1d78d7b58c6af0461a0b09c9fd3644a7a563b8bd" departureTime="16:40:00" vehicleRefId="bus_6515_092"/>
+         <departure id="VJb80288f12ec4a6b239ce40e53d97ddbf759ec8d6" departureTime="15:15:00" vehicleRefId="bus_6515_093"/>
+         <departure id="VJ699e81cbd61381ba4951f2b1ca9a4de0747a1c98" departureTime="16:20:00" vehicleRefId="bus_6515_094"/>
+         <departure id="VJ9317430d023dc81cbe775226ffd35be8050d68d4" departureTime="15:35:00" vehicleRefId="bus_6515_095"/>
+         <departure id="VJ74496e026949707abf3e6583c6247c0796cfc764" departureTime="15:55:00" vehicleRefId="bus_6515_096"/>
+         <departure id="VJ39b1c449e70c4f92def8cf8ee766658d4814defc" departureTime="08:50:00" vehicleRefId="bus_6515_097"/>
+         <departure id="VJ71a17baa02c7e08e5d40e37363df7104014264e0" departureTime="17:25:00" vehicleRefId="bus_6515_098"/>
+         <departure id="VJf33cf27b5d736b8b07504b40a8da985ffc66c43e" departureTime="14:10:00" vehicleRefId="bus_6515_099"/>
+         <departure id="VJab073898dfd58985b344e813c87a54e0215435ce" departureTime="08:30:00" vehicleRefId="bus_6515_100"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+   </transitLine> 
+   <transitLine id="6753">
+      <attributes>
+        <attribute name="gtfs_agency_id" class="java.lang.String">OP736</attribute>
+        <attribute name="gtfs_route_short_name" class="java.lang.String">6</attribute>
+        <attribute name="gtfs_route_type" class="java.lang.String">3</attribute>
+      </attributes>
+
+      <transitRoute id="6753_6_266BristolCityCentre41">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0170SGB20113" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20116" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20123" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20124" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20055" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20057" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20060" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20062" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20063" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20064" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20065" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20066" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20425" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20075" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA19749" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA16942" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10866" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10522" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10524" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10527" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10529" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10532" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10534" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10536" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10537" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10540" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10502" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10500" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10498" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10497" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10495" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10493" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10456" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46651" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10225" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90221" arrivalOffset="00:43:00" departureOffset="00:43:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46647" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90354" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90365" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90369" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10811" arrivalOffset="00:51:00" departureOffset="00:51:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L07QH1"/>
+         <link refId="L0H98R"/>
+         <link refId="L096B4"/>
+         <link refId="L04BFD"/>
+         <link refId="L08BJP"/>
+         <link refId="LEM110"/>
+         <link refId="L0LPY2"/>
+         <link refId="LMM101"/>
+         <link refId="L0YZ0F"/>
+         <link refId="L0WB92"/>
+         <link refId="L0FJAC"/>
+         <link refId="L01X51"/>
+         <link refId="L01AGA"/>
+         <link refId="L0KFZD"/>
+         <link refId="L0Z51H"/>
+         <link refId="L0E9QK"/>
+         <link refId="L0WTLJ"/>
+         <link refId="L043LX"/>
+         <link refId="L0TFE4"/>
+         <link refId="L0LXBT"/>
+         <link refId="L0A1PJ"/>
+         <link refId="L0BR53"/>
+         <link refId="L04ZJW"/>
+         <link refId="L0V5BG"/>
+         <link refId="L0VTR9"/>
+         <link refId="L0ZAGD"/>
+         <link refId="L0FKZU"/>
+         <link refId="L084D0"/>
+         <link refId="L0AM6K"/>
+         <link refId="L0KWBH"/>
+         <link refId="L0B4UL"/>
+         <link refId="L0NRF5"/>
+         <link refId="L0D7AL"/>
+         <link refId="L0JXAZ"/>
+         <link refId="L06D8J"/>
+         <link refId="L056MW"/>
+         <link refId="L02QLQ"/>
+         <link refId="L0T5LY"/>
+         <link refId="L0Z6BJ"/>
+         <link refId="L0ELPH"/>
+         <link refId="L0UL8J"/>
+         <link refId="L04BBZ"/>
+         <link refId="L02URG"/>
+         <link refId="L0CJF3"/>
+         <link refId="L0MNJA"/>
+         <link refId="L0YQEJ"/>
+         <link refId="L0Z3UM"/>
+         <link refId="L0DKLW"/>
+         <link refId="L0D1KQ"/>
+         <link refId="L0PWQ4"/>
+         <link refId="L0C210"/>
+         <link refId="L0K6V8"/>
+         <link refId="L0DFMC"/>
+         <link refId="L0UC9N"/>
+         <link refId="L0XZ46"/>
+         <link refId="L07M52"/>
+         <link refId="L07H1A"/>
+         <link refId="L0FJZB"/>
+         <link refId="L0YNJ0"/>
+         <link refId="L0NCCT"/>
+         <link refId="L0VPV5"/>
+         <link refId="L0YNGF"/>
+         <link refId="L0MQLP"/>
+         <link refId="L0C0UJ"/>
+         <link refId="L0DN2U"/>
+         <link refId="L0HP8Z"/>
+         <link refId="L0J3CG"/>
+         <link refId="L07R1W"/>
+         <link refId="L0N0UZ"/>
+         <link refId="L0YP7U"/>
+         <link refId="L0M7YG"/>
+         <link refId="L0Z8PN"/>
+         <link refId="L09ZLZ"/>
+         <link refId="L04M8W"/>
+         <link refId="L0JED2"/>
+         <link refId="L0N9RR"/>
+         <link refId="L02LTE"/>
+         <link refId="L07PKZ"/>
+         <link refId="L0GC44"/>
+         <link refId="L0JL1B"/>
+         <link refId="L0RYKB"/>
+         <link refId="L0BG8N"/>
+         <link refId="L08G95"/>
+         <link refId="L0Y2PM"/>
+         <link refId="L0FYHR"/>
+         <link refId="L0PFHN"/>
+         <link refId="L0XFRK"/>
+         <link refId="L0Z5BA"/>
+         <link refId="L0CKMJ"/>
+         <link refId="L0D3FX"/>
+         <link refId="L01P6W"/>
+         <link refId="L0AVB8"/>
+         <link refId="L0GRPU"/>
+         <link refId="L0GBFQ"/>
+         <link refId="L00NJN"/>
+         <link refId="L02VDK"/>
+         <link refId="L07B9N"/>
+         <link refId="L0RVRG"/>
+         <link refId="L08B2X"/>
+         <link refId="L0J822"/>
+         <link refId="L08PVL"/>
+         <link refId="L0YAT4"/>
+         <link refId="L0F77D"/>
+         <link refId="L0XXN0"/>
+         <link refId="L0JY1T"/>
+         <link refId="L0LN5C"/>
+         <link refId="L0DY4J"/>
+         <link refId="L0PNTK"/>
+         <link refId="L0K42C"/>
+         <link refId="L0VWHP"/>
+         <link refId="L0ECX4"/>
+         <link refId="L0EE9T"/>
+         <link refId="L0APLM"/>
+         <link refId="L0VYT6"/>
+         <link refId="L000EJ"/>
+         <link refId="L0KN56"/>
+         <link refId="L0C1FH"/>
+         <link refId="L0FBUU"/>
+         <link refId="L0H9RM"/>
+         <link refId="L023GG"/>
+         <link refId="L0FK8F"/>
+         <link refId="L0WX5J"/>
+         <link refId="L03RWK"/>
+         <link refId="L0938M"/>
+         <link refId="L0YZGW"/>
+         <link refId="L0Q7RL"/>
+         <link refId="L0E9CX"/>
+         <link refId="L036GA"/>
+         <link refId="L0KLBJ"/>
+         <link refId="L0VUPJ"/>
+         <link refId="L0HPV3"/>
+         <link refId="L02G8J"/>
+         <link refId="L06KCA"/>
+         <link refId="L0MWQH"/>
+         <link refId="L0GP9H"/>
+         <link refId="L0V3BG"/>
+         <link refId="L06GVG"/>
+         <link refId="L0WNWJ"/>
+         <link refId="L04Q7B"/>
+         <link refId="L0K8JL"/>
+         <link refId="L0URY0"/>
+         <link refId="L01B4W"/>
+         <link refId="L0G440"/>
+         <link refId="L0418V"/>
+         <link refId="L04CYA"/>
+         <link refId="L0TY7N"/>
+         <link refId="L0A39C"/>
+         <link refId="L095X9"/>
+         <link refId="L0W9JH"/>
+         <link refId="L0JLLP"/>
+         <link refId="L0337H"/>
+         <link refId="L0MW21"/>
+         <link refId="L0FNYY"/>
+         <link refId="L0745H"/>
+         <link refId="L04QR3"/>
+         <link refId="L03QCF"/>
+         <link refId="L0QM8Q"/>
+         <link refId="L0DM6T"/>
+         <link refId="L05ZFC"/>
+         <link refId="L0XRG8"/>
+         <link refId="L0P8M7"/>
+         <link refId="L0613R"/>
+         <link refId="L0AGWB"/>
+         <link refId="L0XMKF"/>
+         <link refId="L010A9"/>
+         <link refId="L0U79P"/>
+         <link refId="L0J91T"/>
+         <link refId="L0BM6E"/>
+         <link refId="L0UB7D"/>
+         <link refId="L0UL52"/>
+         <link refId="L0W9LC"/>
+         <link refId="L0LL45"/>
+         <link refId="L0D2KP"/>
+         <link refId="L0YTQW"/>
+         <link refId="L0WR6V"/>
+         <link refId="L0EV7L"/>
+         <link refId="L0AXET"/>
+         <link refId="L0HHTF"/>
+         <link refId="L0BW8E"/>
+         <link refId="L0VM6M"/>
+         <link refId="L0JN0X"/>
+         <link refId="L0YKU2"/>
+         <link refId="L0FTYX"/>
+         <link refId="L06GBR"/>
+         <link refId="L064Q3"/>
+         <link refId="L0MZM5"/>
+         <link refId="L0Y74K"/>
+         <link refId="L0G6JP"/>
+         <link refId="L0A3TR"/>
+         <link refId="L0GNK4"/>
+         <link refId="L011GY"/>
+         <link refId="L0422H"/>
+         <link refId="L09942"/>
+         <link refId="L0256D"/>
+         <link refId="L0Q9Z5"/>
+         <link refId="L08T4J"/>
+         <link refId="L07KM0"/>
+         <link refId="L0X8NB"/>
+         <link refId="L025H5"/>
+         <link refId="L0RU1B"/>
+         <link refId="L0VE6R"/>
+         <link refId="L00QZZ"/>
+         <link refId="L0A7DJ"/>
+         <link refId="L06N5N"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ304a36206b04977043fb260c6f1abb3588351a2c" departureTime="22:24:00" vehicleRefId="bus_6753_001"/>
+         <departure id="VJ61aea0417f4bc9524e5710f0642855af9220cc8f" departureTime="21:24:00" vehicleRefId="bus_6753_002"/>
+         <departure id="VJ8ef01136c9dfe7c74c76d1284a78deb0e47d1e1a" departureTime="17:25:00" vehicleRefId="bus_6753_003"/>
+         <departure id="VJf6af3c466f6a6a13dfc319736427f0dadd8d90d2" departureTime="17:47:00" vehicleRefId="bus_6753_004"/>
+         <departure id="VJ08fb5b398e1cfeb5d1ede78d368153a51de9cdc4" departureTime="18:11:00" vehicleRefId="bus_6753_005"/>
+         <departure id="VJce27713e5482c823df3f25f5310cbc40c180eb78" departureTime="18:31:00" vehicleRefId="bus_6753_006"/>
+         <departure id="VJbe32f2c7e2dd50f664e8b509004706a8136c191a" departureTime="19:46:00" vehicleRefId="bus_6753_007"/>
+         <departure id="VJ662b6337026f170c2e5ad063bd091195be8af713" departureTime="19:11:00" vehicleRefId="bus_6753_008"/>
+         <departure id="VJba9089e7694e88c24a069de84215c3eb645d1b26" departureTime="18:51:00" vehicleRefId="bus_6753_009"/>
+         <departure id="VJ96109ca93b5aafbb599e4ebf33f20587ca5e7d9e" departureTime="20:20:00" vehicleRefId="bus_6753_010"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6753_6_266Kingswood41">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="010000002" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10783" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90404" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10785" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46646" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90163" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46648" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46649" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10454" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10492" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10494" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10496" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10499" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10501" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10503" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10539" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10538" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10535" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10533" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10531" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10530" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10528" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10525" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10523" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10521" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10867" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA16943" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA16944" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20076" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20424" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20067" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20426" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20427" arrivalOffset="00:43:00" departureOffset="00:43:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20428" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20051" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20061" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20059" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20058" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20056" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20147" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20113" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0BB72"/>
+         <link refId="L0YKG5"/>
+         <link refId="L0JPLU"/>
+         <link refId="L017T7"/>
+         <link refId="L0CQNM"/>
+         <link refId="L0XRR0"/>
+         <link refId="L0UEJG"/>
+         <link refId="L064BK"/>
+         <link refId="L0CQKZ"/>
+         <link refId="L04EQR"/>
+         <link refId="L0CWC6"/>
+         <link refId="L080NJ"/>
+         <link refId="L0EKT5"/>
+         <link refId="L0Y89R"/>
+         <link refId="L0E14R"/>
+         <link refId="L0EP9Q"/>
+         <link refId="LXP105"/>
+         <link refId="L0H3D7"/>
+         <link refId="L0U3XM"/>
+         <link refId="L0B7LB"/>
+         <link refId="L0CU4X"/>
+         <link refId="L0XQ8R"/>
+         <link refId="L01B5M"/>
+         <link refId="L0RD1L"/>
+         <link refId="L0P70K"/>
+         <link refId="L0L251"/>
+         <link refId="L0E66C"/>
+         <link refId="L0579Q"/>
+         <link refId="L0EV7L"/>
+         <link refId="L01TJZ"/>
+         <link refId="L02VQW"/>
+         <link refId="L0FLJC"/>
+         <link refId="L04QRP"/>
+         <link refId="L061Q4"/>
+         <link refId="L07806"/>
+         <link refId="L038WG"/>
+         <link refId="L0W2V7"/>
+         <link refId="L0APL3"/>
+         <link refId="L0FYD2"/>
+         <link refId="L0F03P"/>
+         <link refId="L0QJKK"/>
+         <link refId="L0ERGV"/>
+         <link refId="L04NF4"/>
+         <link refId="L0CYPH"/>
+         <link refId="L0CNVN"/>
+         <link refId="L0P289"/>
+         <link refId="L0VUD3"/>
+         <link refId="L0FJWL"/>
+         <link refId="L06E6E"/>
+         <link refId="L03QN2"/>
+         <link refId="L0LT0V"/>
+         <link refId="L0AY5V"/>
+         <link refId="L0GBDD"/>
+         <link refId="L04UAA"/>
+         <link refId="L0K5L8"/>
+         <link refId="L01D58"/>
+         <link refId="L07NG8"/>
+         <link refId="L01U6Y"/>
+         <link refId="L001Z1"/>
+         <link refId="L0MTR8"/>
+         <link refId="L03U15"/>
+         <link refId="L0WUDF"/>
+         <link refId="L0KWFH"/>
+         <link refId="L0VQ7C"/>
+         <link refId="L0H0RD"/>
+         <link refId="L04NKU"/>
+         <link refId="L0ZA6J"/>
+         <link refId="L0DU3J"/>
+         <link refId="L0AFFV"/>
+         <link refId="L02A63"/>
+         <link refId="L02ADA"/>
+         <link refId="L01XCB"/>
+         <link refId="L0HT3K"/>
+         <link refId="L036FR"/>
+         <link refId="L021UL"/>
+         <link refId="L0QHYL"/>
+         <link refId="L0UWHP"/>
+         <link refId="L0D4D3"/>
+         <link refId="L0BXYA"/>
+         <link refId="L0B5J1"/>
+         <link refId="L0PJY0"/>
+         <link refId="L0A8YC"/>
+         <link refId="L0EBJ8"/>
+         <link refId="L01G10"/>
+         <link refId="L0LR7W"/>
+         <link refId="L0TVX3"/>
+         <link refId="L0J3KW"/>
+         <link refId="L0KAZJ"/>
+         <link refId="L0RA82"/>
+         <link refId="L0AYBG"/>
+         <link refId="L0F2ZR"/>
+         <link refId="L0YLRT"/>
+         <link refId="L0EV91"/>
+         <link refId="L06CEC"/>
+         <link refId="L06R3F"/>
+         <link refId="L034KT"/>
+         <link refId="L0NWYZ"/>
+         <link refId="L0LMGK"/>
+         <link refId="L09RFF"/>
+         <link refId="L0NK1R"/>
+         <link refId="L0E5QW"/>
+         <link refId="L0PYAY"/>
+         <link refId="L0E1WX"/>
+         <link refId="L01JEX"/>
+         <link refId="L0KLLH"/>
+         <link refId="L0BDJY"/>
+         <link refId="L0B0H6"/>
+         <link refId="L0KZ6M"/>
+         <link refId="L09KLJ"/>
+         <link refId="L0XDTM"/>
+         <link refId="L0XX1T"/>
+         <link refId="L06X2W"/>
+         <link refId="L0HXJK"/>
+         <link refId="L05VXG"/>
+         <link refId="L0335N"/>
+         <link refId="L08G7E"/>
+         <link refId="L0Y8JJ"/>
+         <link refId="L01FCM"/>
+         <link refId="L0B3VY"/>
+         <link refId="L0GKP7"/>
+         <link refId="L0C4C2"/>
+         <link refId="L09FMC"/>
+         <link refId="L0LZC6"/>
+         <link refId="L04CMD"/>
+         <link refId="L0A2MZ"/>
+         <link refId="L07LP4"/>
+         <link refId="L0CX1H"/>
+         <link refId="L0YMHA"/>
+         <link refId="L0L2FW"/>
+         <link refId="L02248"/>
+         <link refId="L0G75E"/>
+         <link refId="L0W3LW"/>
+         <link refId="L0YF72"/>
+         <link refId="L039PT"/>
+         <link refId="L0F4MV"/>
+         <link refId="L01GKM"/>
+         <link refId="L0P1J6"/>
+         <link refId="L001UF"/>
+         <link refId="L0WWV5"/>
+         <link refId="L0LTTX"/>
+         <link refId="L0YL36"/>
+         <link refId="L08KQT"/>
+         <link refId="L0LE44"/>
+         <link refId="L0GA44"/>
+         <link refId="L03LCN"/>
+         <link refId="L0ZGQT"/>
+         <link refId="L0TUCT"/>
+         <link refId="L0M4C9"/>
+         <link refId="L0QYLU"/>
+         <link refId="L00D65"/>
+         <link refId="L0N8DK"/>
+         <link refId="L0PGH2"/>
+         <link refId="L0605H"/>
+         <link refId="L0GV61"/>
+         <link refId="L0DNUX"/>
+         <link refId="L0LQEF"/>
+         <link refId="L0D4HD"/>
+         <link refId="L0YC4B"/>
+         <link refId="L0A49P"/>
+         <link refId="L09K1P"/>
+         <link refId="L078XD"/>
+         <link refId="L02JKY"/>
+         <link refId="L04DV0"/>
+         <link refId="L0ZQMD"/>
+         <link refId="L0NK5L"/>
+         <link refId="L0F7BN"/>
+         <link refId="L00PDM"/>
+         <link refId="L0JABJ"/>
+         <link refId="L0LUBF"/>
+         <link refId="L0CRH1"/>
+         <link refId="L0LKA6"/>
+         <link refId="L0M2JU"/>
+         <link refId="L0VRH0"/>
+         <link refId="L0WK5V"/>
+         <link refId="L04EW3"/>
+         <link refId="L0EUMR"/>
+         <link refId="L0T74M"/>
+         <link refId="L00EQF"/>
+         <link refId="L0Z04T"/>
+         <link refId="L0X36R"/>
+         <link refId="L0CQ0T"/>
+         <link refId="L0W23B"/>
+         <link refId="L0Z160"/>
+         <link refId="L0ZY2K"/>
+         <link refId="L040DV"/>
+         <link refId="L0VAAN"/>
+         <link refId="L016G7"/>
+         <link refId="L0J0DL"/>
+         <link refId="L0CA4L"/>
+         <link refId="L0V57R"/>
+         <link refId="L0J45H"/>
+         <link refId="L0NRAY"/>
+         <link refId="L0WZT6"/>
+         <link refId="L09D4W"/>
+         <link refId="L0ZTCH"/>
+         <link refId="L09A2J"/>
+         <link refId="L06L2Y"/>
+         <link refId="L07QH1"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ9c681fdc7952b29be37fe733b002721b1ec66e82" departureTime="21:40:00" vehicleRefId="bus_6753_011"/>
+         <departure id="VJd14860deedb075b928d23e06208b76fc03913fbc" departureTime="22:40:00" vehicleRefId="bus_6753_012"/>
+         <departure id="VJ470162cc8ae5bb2a5aa2905630d4eec326d040da" departureTime="20:40:00" vehicleRefId="bus_6753_013"/>
+         <departure id="VJ0dc1d5576f62694f988b656c62d1cb9bc136adc0" departureTime="23:40:00" vehicleRefId="bus_6753_014"/>
+         <departure id="VJb4f53b480bbdf3610d3a9f12aa543c590b1ac21c" departureTime="17:15:00" vehicleRefId="bus_6753_015"/>
+         <departure id="VJe96efa89acd348fcfec429a37b2cc0fca2252c48" departureTime="18:35:00" vehicleRefId="bus_6753_016"/>
+         <departure id="VJ41dca232b4f92aaa049e6d9d58649a2a1b278b11" departureTime="19:25:00" vehicleRefId="bus_6753_017"/>
+         <departure id="VJf2c3c7c3d88f5b98fd12a22d1966c68bff7b2060" departureTime="19:55:00" vehicleRefId="bus_6753_018"/>
+         <departure id="VJd2217fb633a63b89f471371da5b9e89760179d0a" departureTime="18:15:00" vehicleRefId="bus_6753_019"/>
+         <departure id="VJ1f9ed5e3e88125bdbbd443b00c543d0c6364a4ab" departureTime="18:55:00" vehicleRefId="bus_6753_020"/>
+         <departure id="VJ4a626aece1cc75794bbd9a19293186fa92a7b13b" departureTime="17:35:00" vehicleRefId="bus_6753_021"/>
+         <departure id="VJ1b8cf153f910b2ff82c2f8353f5c9fec3d57fbfe" departureTime="17:55:00" vehicleRefId="bus_6753_022"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6753_6_310BristolCityCentre41">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="0170SGB20113" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20116" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20123" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20124" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20055" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20057" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20060" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20062" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20063" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20064" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20065" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20066" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20425" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20075" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true" /> 
+          <stop refId="0170SGA19749" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA16942" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10866" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10522" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10524" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10527" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10529" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10532" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10534" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10536" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10537" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10540" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10502" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10500" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10498" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10497" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10495" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10493" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10456" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46651" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10225" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90221" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46647" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90354" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90365" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90369" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10811" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L07QH1"/>
+         <link refId="L0H98R"/>
+         <link refId="L096B4"/>
+         <link refId="L04BFD"/>
+         <link refId="L08BJP"/>
+         <link refId="LEM110"/>
+         <link refId="L0LPY2"/>
+         <link refId="LMM101"/>
+         <link refId="L0YZ0F"/>
+         <link refId="L0WB92"/>
+         <link refId="L0FJAC"/>
+         <link refId="L01X51"/>
+         <link refId="L01AGA"/>
+         <link refId="L0KFZD"/>
+         <link refId="L0Z51H"/>
+         <link refId="L0E9QK"/>
+         <link refId="L0WTLJ"/>
+         <link refId="L043LX"/>
+         <link refId="L0TFE4"/>
+         <link refId="L0LXBT"/>
+         <link refId="L0A1PJ"/>
+         <link refId="L0BR53"/>
+         <link refId="L04ZJW"/>
+         <link refId="L0V5BG"/>
+         <link refId="L0VTR9"/>
+         <link refId="L0ZAGD"/>
+         <link refId="L0FKZU"/>
+         <link refId="L084D0"/>
+         <link refId="L0AM6K"/>
+         <link refId="L0KWBH"/>
+         <link refId="L0B4UL"/>
+         <link refId="L0NRF5"/>
+         <link refId="L0D7AL"/>
+         <link refId="L0JXAZ"/>
+         <link refId="L06D8J"/>
+         <link refId="L056MW"/>
+         <link refId="L02QLQ"/>
+         <link refId="L0T5LY"/>
+         <link refId="L0Z6BJ"/>
+         <link refId="L0ELPH"/>
+         <link refId="L0UL8J"/>
+         <link refId="L04BBZ"/>
+         <link refId="L02URG"/>
+         <link refId="L0CJF3"/>
+         <link refId="L0MNJA"/>
+         <link refId="L0YQEJ"/>
+         <link refId="L0Z3UM"/>
+         <link refId="L0DKLW"/>
+         <link refId="L0D1KQ"/>
+         <link refId="L0PWQ4"/>
+         <link refId="L0C210"/>
+         <link refId="L0K6V8"/>
+         <link refId="L0DFMC"/>
+         <link refId="L0UC9N"/>
+         <link refId="L0XZ46"/>
+         <link refId="L07M52"/>
+         <link refId="L07H1A"/>
+         <link refId="L0FJZB"/>
+         <link refId="L0YNJ0"/>
+         <link refId="L0NCCT"/>
+         <link refId="L0VPV5"/>
+         <link refId="L0YNGF"/>
+         <link refId="L0MQLP"/>
+         <link refId="L0C0UJ"/>
+         <link refId="L0DN2U"/>
+         <link refId="L0HP8Z"/>
+         <link refId="L0J3CG"/>
+         <link refId="L07R1W"/>
+         <link refId="L0N0UZ"/>
+         <link refId="L0YP7U"/>
+         <link refId="L0M7YG"/>
+         <link refId="L0Z8PN"/>
+         <link refId="L09ZLZ"/>
+         <link refId="L04M8W"/>
+         <link refId="L0JED2"/>
+         <link refId="L0N9RR"/>
+         <link refId="L02LTE"/>
+         <link refId="L07PKZ"/>
+         <link refId="L0GC44"/>
+         <link refId="L0JL1B"/>
+         <link refId="L0RYKB"/>
+         <link refId="L0BG8N"/>
+         <link refId="L08G95"/>
+         <link refId="L0Y2PM"/>
+         <link refId="L0FYHR"/>
+         <link refId="L0PFHN"/>
+         <link refId="L0XFRK"/>
+         <link refId="L0Z5BA"/>
+         <link refId="L0CKMJ"/>
+         <link refId="L0D3FX"/>
+         <link refId="L01P6W"/>
+         <link refId="L0AVB8"/>
+         <link refId="L0GRPU"/>
+         <link refId="L0GBFQ"/>
+         <link refId="L00NJN"/>
+         <link refId="L02VDK"/>
+         <link refId="L07B9N"/>
+         <link refId="L0RVRG"/>
+         <link refId="L08B2X"/>
+         <link refId="L0J822"/>
+         <link refId="L08PVL"/>
+         <link refId="L0YAT4"/>
+         <link refId="L0F77D"/>
+         <link refId="L0XXN0"/>
+         <link refId="L0JY1T"/>
+         <link refId="L0LN5C"/>
+         <link refId="L0DY4J"/>
+         <link refId="L0PNTK"/>
+         <link refId="L0K42C"/>
+         <link refId="L0VWHP"/>
+         <link refId="L0ECX4"/>
+         <link refId="L0EE9T"/>
+         <link refId="L0APLM"/>
+         <link refId="L0VYT6"/>
+         <link refId="L000EJ"/>
+         <link refId="L0KN56"/>
+         <link refId="L0C1FH"/>
+         <link refId="L0FBUU"/>
+         <link refId="L0H9RM"/>
+         <link refId="L023GG"/>
+         <link refId="L0FK8F"/>
+         <link refId="L0WX5J"/>
+         <link refId="L03RWK"/>
+         <link refId="L0938M"/>
+         <link refId="L0YZGW"/>
+         <link refId="L0Q7RL"/>
+         <link refId="L0E9CX"/>
+         <link refId="L036GA"/>
+         <link refId="L0KLBJ"/>
+         <link refId="L0VUPJ"/>
+         <link refId="L0HPV3"/>
+         <link refId="L02G8J"/>
+         <link refId="L06KCA"/>
+         <link refId="L0MWQH"/>
+         <link refId="L0GP9H"/>
+         <link refId="L0V3BG"/>
+         <link refId="L06GVG"/>
+         <link refId="L0WNWJ"/>
+         <link refId="L04Q7B"/>
+         <link refId="L0K8JL"/>
+         <link refId="L0URY0"/>
+         <link refId="L01B4W"/>
+         <link refId="L0G440"/>
+         <link refId="L0418V"/>
+         <link refId="L04CYA"/>
+         <link refId="L0TY7N"/>
+         <link refId="L0A39C"/>
+         <link refId="L095X9"/>
+         <link refId="L0W9JH"/>
+         <link refId="L0JLLP"/>
+         <link refId="L0337H"/>
+         <link refId="L0MW21"/>
+         <link refId="L0FNYY"/>
+         <link refId="L0745H"/>
+         <link refId="L04QR3"/>
+         <link refId="L03QCF"/>
+         <link refId="L0QM8Q"/>
+         <link refId="L0DM6T"/>
+         <link refId="L05ZFC"/>
+         <link refId="L0XRG8"/>
+         <link refId="L0P8M7"/>
+         <link refId="L0613R"/>
+         <link refId="L0AGWB"/>
+         <link refId="L0XMKF"/>
+         <link refId="L010A9"/>
+         <link refId="L0U79P"/>
+         <link refId="L0J91T"/>
+         <link refId="L0BM6E"/>
+         <link refId="L0UB7D"/>
+         <link refId="L0UL52"/>
+         <link refId="L0W9LC"/>
+         <link refId="L0LL45"/>
+         <link refId="L0D2KP"/>
+         <link refId="L0YTQW"/>
+         <link refId="L0WR6V"/>
+         <link refId="L0EV7L"/>
+         <link refId="L0AXET"/>
+         <link refId="L0HHTF"/>
+         <link refId="L0BW8E"/>
+         <link refId="L0VM6M"/>
+         <link refId="L0JN0X"/>
+         <link refId="L0YKU2"/>
+         <link refId="L0FTYX"/>
+         <link refId="L06GBR"/>
+         <link refId="L064Q3"/>
+         <link refId="L0MZM5"/>
+         <link refId="L0Y74K"/>
+         <link refId="L0G6JP"/>
+         <link refId="L0A3TR"/>
+         <link refId="L0GNK4"/>
+         <link refId="L011GY"/>
+         <link refId="L0422H"/>
+         <link refId="L09942"/>
+         <link refId="L0256D"/>
+         <link refId="L0Q9Z5"/>
+         <link refId="L08T4J"/>
+         <link refId="L07KM0"/>
+         <link refId="L0X8NB"/>
+         <link refId="L025H5"/>
+         <link refId="L0RU1B"/>
+         <link refId="L0VE6R"/>
+         <link refId="L00QZZ"/>
+         <link refId="L0A7DJ"/>
+         <link refId="L06N5N"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ3d00cea833a259d11ca61f1489e77b910063a66e" departureTime="04:15:00" vehicleRefId="bus_6753_023"/>
+         <departure id="VJ16fa49557de313abb8e0ab88fc1592e305713f48" departureTime="06:13:00" vehicleRefId="bus_6753_024"/>
+         <departure id="VJd7fb1d7aa7cadac7951404ba378552c9c7f132a2" departureTime="04:45:00" vehicleRefId="bus_6753_025"/>
+         <departure id="VJb687cfec20b069420a627344832a8c0022da9578" departureTime="05:10:00" vehicleRefId="bus_6753_026"/>
+         <departure id="VJ2b48715312be008a11f2e460682662aaba0cffe8" departureTime="05:30:00" vehicleRefId="bus_6753_027"/>
+         <departure id="VJ16490eda5948684223a21dcb584af429502277b3" departureTime="05:53:00" vehicleRefId="bus_6753_028"/>
+         <departure id="VJc67d997682ce7b421eeb4bb750729ea7f0be5487" departureTime="09:52:00" vehicleRefId="bus_6753_029"/>
+         <departure id="VJef768ef211f11f2870fc1fdabb82b28fc74e8605" departureTime="13:32:00" vehicleRefId="bus_6753_030"/>
+         <departure id="VJ9a0eecdb0cda57d89b82ffdac2fa01faf4bd883e" departureTime="10:12:00" vehicleRefId="bus_6753_031"/>
+         <departure id="VJa9167086eb5d7b23dd48d665c09836f31a706964" departureTime="13:52:00" vehicleRefId="bus_6753_032"/>
+         <departure id="VJead3f192daa8f621345925512d1cddeeaae4a892" departureTime="11:52:00" vehicleRefId="bus_6753_033"/>
+         <departure id="VJ08cfb94c327b59be17c81c98aff24035af9768bf" departureTime="12:32:00" vehicleRefId="bus_6753_034"/>
+         <departure id="VJ0effece28a9a6002cae75f533c8dd7a479039310" departureTime="10:32:00" vehicleRefId="bus_6753_035"/>
+         <departure id="VJ680d7d40758c4aacac670f18045e8f29cbf70352" departureTime="14:12:00" vehicleRefId="bus_6753_036"/>
+         <departure id="VJb7bc95f9fb0227e80505e9ff90e31670e6cf2669" departureTime="11:32:00" vehicleRefId="bus_6753_037"/>
+         <departure id="VJ570c3d5593a032fa69c25ae0fbfae5df1e8642a8" departureTime="09:15:00" vehicleRefId="bus_6753_038"/>
+         <departure id="VJ41517ad4d80ef48cb2245b88be364a282062c949" departureTime="12:52:00" vehicleRefId="bus_6753_039"/>
+         <departure id="VJ0c0f2a352d58a8657a6f544b4ed1a8ae0a6a9e5a" departureTime="10:52:00" vehicleRefId="bus_6753_040"/>
+         <departure id="VJ3639895fca31f35076f1cec4ee3e86f775599e83" departureTime="09:32:00" vehicleRefId="bus_6753_041"/>
+         <departure id="VJ94b9381e3a7acb9dad6234e01d43e1a47c471afc" departureTime="13:12:00" vehicleRefId="bus_6753_042"/>
+         <departure id="VJf40a8a474ed0af36d87dea7d53a7105ad3e99b77" departureTime="12:12:00" vehicleRefId="bus_6753_043"/>
+         <departure id="VJ890edf5c51893d8516e52a2c7d28779d827809ca" departureTime="11:12:00" vehicleRefId="bus_6753_044"/>
+         <departure id="VJ15ab49e18c3cf8ccf88951c3249b5c944f433ca9" departureTime="06:33:00" vehicleRefId="bus_6753_045"/>
+         <departure id="VJ7b3c0f8263b38a1bef1997dd54f8fbd88131b83d" departureTime="07:50:00" vehicleRefId="bus_6753_046"/>
+         <departure id="VJab739e97bdd9b33cabd0a3337abe05f64ea5c860" departureTime="08:10:00" vehicleRefId="bus_6753_047"/>
+         <departure id="VJd445efcf2bf99558ae70739de4aca32d9f937f40" departureTime="07:10:00" vehicleRefId="bus_6753_048"/>
+         <departure id="VJc30ec5023fb0e808013e32f0a6bc2af0d3d4b450" departureTime="08:30:00" vehicleRefId="bus_6753_049"/>
+         <departure id="VJ4d4fc333784340dd6da12e1a0e7be0fe61169e91" departureTime="07:30:00" vehicleRefId="bus_6753_050"/>
+         <departure id="VJ1c91f3bd9d6acdbe4b7f2eba10ba55a2ca0d0d8c" departureTime="15:39:00" vehicleRefId="bus_6753_051"/>
+         <departure id="VJ9a09e632c507659ede9e3df7187f77ccc07ab739" departureTime="16:24:00" vehicleRefId="bus_6753_052"/>
+         <departure id="VJ6cebd25254e1c5d6ee48ae0be09f86e6f84fb1ce" departureTime="16:44:00" vehicleRefId="bus_6753_053"/>
+         <departure id="VJbe4550c6e1c112faab0bf30087b9961160fa6f66" departureTime="14:34:00" vehicleRefId="bus_6753_054"/>
+         <departure id="VJec3f69ff679001b1eeb2f030ae43d4a9d304a045" departureTime="15:19:00" vehicleRefId="bus_6753_055"/>
+         <departure id="VJ0d419336f5cf3ed76e1b68aa83c4bd5252c674bf" departureTime="17:04:00" vehicleRefId="bus_6753_056"/>
+         <departure id="VJc80afbd645ded801cd21799e7ae99593099b77a3" departureTime="15:59:00" vehicleRefId="bus_6753_057"/>
+         <departure id="VJ16ff60f17489d55019be57019097163dd5f39d63" departureTime="14:54:00" vehicleRefId="bus_6753_058"/>
+         <departure id="VJ54a4f274b06b57db664381f8416efb83eb07476b" departureTime="08:55:00" vehicleRefId="bus_6753_059"/>
+         <departure id="VJ9b7f4670f979d4e94064037b2701c66158cf9d13" departureTime="06:51:00" vehicleRefId="bus_6753_060"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+      <transitRoute id="6753_6_310Kingswood41">
+       <transportMode>pt</transportMode>
+
+       <routeProfile> 
+          <stop refId="010000002" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10783" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90404" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10785" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46646" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true" /> 
+          <stop refId="0100BRP90163" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46648" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA46649" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10454" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10492" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10494" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10496" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10499" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10501" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10503" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10539" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10538" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10535" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10533" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10531" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10530" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10528" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10525" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10523" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10521" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA10867" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA16943" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true" /> 
+          <stop refId="0100BRA16944" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20076" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20424" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20067" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20426" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20427" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20428" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20051" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20061" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20059" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20058" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20056" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20147" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true" /> 
+          <stop refId="0170SGB20113" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true" /> 
+        </routeProfile> 
+ 
+        <route> 
+         <link refId="L0BB72"/>
+         <link refId="L0YKG5"/>
+         <link refId="L0JPLU"/>
+         <link refId="L017T7"/>
+         <link refId="L0CQNM"/>
+         <link refId="L0XRR0"/>
+         <link refId="L0UEJG"/>
+         <link refId="L064BK"/>
+         <link refId="L0CQKZ"/>
+         <link refId="L04EQR"/>
+         <link refId="L0CWC6"/>
+         <link refId="L080NJ"/>
+         <link refId="L0EKT5"/>
+         <link refId="L0Y89R"/>
+         <link refId="L0E14R"/>
+         <link refId="L0EP9Q"/>
+         <link refId="LXP105"/>
+         <link refId="L0H3D7"/>
+         <link refId="L0U3XM"/>
+         <link refId="L0B7LB"/>
+         <link refId="L0CU4X"/>
+         <link refId="L0XQ8R"/>
+         <link refId="L01B5M"/>
+         <link refId="L0RD1L"/>
+         <link refId="L0P70K"/>
+         <link refId="L0L251"/>
+         <link refId="L0E66C"/>
+         <link refId="L0579Q"/>
+         <link refId="L0EV7L"/>
+         <link refId="L01TJZ"/>
+         <link refId="L02VQW"/>
+         <link refId="L0FLJC"/>
+         <link refId="L04QRP"/>
+         <link refId="L061Q4"/>
+         <link refId="L07806"/>
+         <link refId="L038WG"/>
+         <link refId="L0W2V7"/>
+         <link refId="L0APL3"/>
+         <link refId="L0FYD2"/>
+         <link refId="L0F03P"/>
+         <link refId="L0QJKK"/>
+         <link refId="L0ERGV"/>
+         <link refId="L04NF4"/>
+         <link refId="L0CYPH"/>
+         <link refId="L0CNVN"/>
+         <link refId="L0P289"/>
+         <link refId="L0VUD3"/>
+         <link refId="L0FJWL"/>
+         <link refId="L06E6E"/>
+         <link refId="L03QN2"/>
+         <link refId="L0LT0V"/>
+         <link refId="L0AY5V"/>
+         <link refId="L0GBDD"/>
+         <link refId="L04UAA"/>
+         <link refId="L0K5L8"/>
+         <link refId="L01D58"/>
+         <link refId="L07NG8"/>
+         <link refId="L01U6Y"/>
+         <link refId="L001Z1"/>
+         <link refId="L0MTR8"/>
+         <link refId="L03U15"/>
+         <link refId="L0WUDF"/>
+         <link refId="L0KWFH"/>
+         <link refId="L0VQ7C"/>
+         <link refId="L0H0RD"/>
+         <link refId="L04NKU"/>
+         <link refId="L0ZA6J"/>
+         <link refId="L0DU3J"/>
+         <link refId="L0AFFV"/>
+         <link refId="L02A63"/>
+         <link refId="L02ADA"/>
+         <link refId="L01XCB"/>
+         <link refId="L0HT3K"/>
+         <link refId="L036FR"/>
+         <link refId="L021UL"/>
+         <link refId="L0QHYL"/>
+         <link refId="L0UWHP"/>
+         <link refId="L0D4D3"/>
+         <link refId="L0BXYA"/>
+         <link refId="L0B5J1"/>
+         <link refId="L0PJY0"/>
+         <link refId="L0A8YC"/>
+         <link refId="L0EBJ8"/>
+         <link refId="L01G10"/>
+         <link refId="L0LR7W"/>
+         <link refId="L0TVX3"/>
+         <link refId="L0J3KW"/>
+         <link refId="L0KAZJ"/>
+         <link refId="L0RA82"/>
+         <link refId="L0AYBG"/>
+         <link refId="L0F2ZR"/>
+         <link refId="L0YLRT"/>
+         <link refId="L0EV91"/>
+         <link refId="L06CEC"/>
+         <link refId="L06R3F"/>
+         <link refId="L034KT"/>
+         <link refId="L0NWYZ"/>
+         <link refId="L0LMGK"/>
+         <link refId="L09RFF"/>
+         <link refId="L0NK1R"/>
+         <link refId="L0E5QW"/>
+         <link refId="L0PYAY"/>
+         <link refId="L0E1WX"/>
+         <link refId="L01JEX"/>
+         <link refId="L0KLLH"/>
+         <link refId="L0BDJY"/>
+         <link refId="L0B0H6"/>
+         <link refId="L0KZ6M"/>
+         <link refId="L09KLJ"/>
+         <link refId="L0XDTM"/>
+         <link refId="L0XX1T"/>
+         <link refId="L06X2W"/>
+         <link refId="L0HXJK"/>
+         <link refId="L05VXG"/>
+         <link refId="L0335N"/>
+         <link refId="L08G7E"/>
+         <link refId="L0Y8JJ"/>
+         <link refId="L01FCM"/>
+         <link refId="L0B3VY"/>
+         <link refId="L0GKP7"/>
+         <link refId="L0C4C2"/>
+         <link refId="L09FMC"/>
+         <link refId="L0LZC6"/>
+         <link refId="L04CMD"/>
+         <link refId="L0A2MZ"/>
+         <link refId="L07LP4"/>
+         <link refId="L0CX1H"/>
+         <link refId="L0YMHA"/>
+         <link refId="L0L2FW"/>
+         <link refId="L02248"/>
+         <link refId="L0G75E"/>
+         <link refId="L0W3LW"/>
+         <link refId="L0YF72"/>
+         <link refId="L039PT"/>
+         <link refId="L0F4MV"/>
+         <link refId="L01GKM"/>
+         <link refId="L0P1J6"/>
+         <link refId="L001UF"/>
+         <link refId="L0WWV5"/>
+         <link refId="L0LTTX"/>
+         <link refId="L0YL36"/>
+         <link refId="L08KQT"/>
+         <link refId="L0LE44"/>
+         <link refId="L0GA44"/>
+         <link refId="L03LCN"/>
+         <link refId="L0ZGQT"/>
+         <link refId="L0TUCT"/>
+         <link refId="L0M4C9"/>
+         <link refId="L0QYLU"/>
+         <link refId="L00D65"/>
+         <link refId="L0N8DK"/>
+         <link refId="L0PGH2"/>
+         <link refId="L0605H"/>
+         <link refId="L0GV61"/>
+         <link refId="L0DNUX"/>
+         <link refId="L0LQEF"/>
+         <link refId="L0D4HD"/>
+         <link refId="L0YC4B"/>
+         <link refId="L0A49P"/>
+         <link refId="L09K1P"/>
+         <link refId="L078XD"/>
+         <link refId="L02JKY"/>
+         <link refId="L04DV0"/>
+         <link refId="L0ZQMD"/>
+         <link refId="L0NK5L"/>
+         <link refId="L0F7BN"/>
+         <link refId="L00PDM"/>
+         <link refId="L0JABJ"/>
+         <link refId="L0LUBF"/>
+         <link refId="L0CRH1"/>
+         <link refId="L0LKA6"/>
+         <link refId="L0M2JU"/>
+         <link refId="L0VRH0"/>
+         <link refId="L0WK5V"/>
+         <link refId="L04EW3"/>
+         <link refId="L0EUMR"/>
+         <link refId="L0T74M"/>
+         <link refId="L00EQF"/>
+         <link refId="L0Z04T"/>
+         <link refId="L0X36R"/>
+         <link refId="L0CQ0T"/>
+         <link refId="L0W23B"/>
+         <link refId="L0Z160"/>
+         <link refId="L0ZY2K"/>
+         <link refId="L040DV"/>
+         <link refId="L0VAAN"/>
+         <link refId="L016G7"/>
+         <link refId="L0J0DL"/>
+         <link refId="L0CA4L"/>
+         <link refId="L0V57R"/>
+         <link refId="L0J45H"/>
+         <link refId="L0NRAY"/>
+         <link refId="L0WZT6"/>
+         <link refId="L09D4W"/>
+         <link refId="L0ZTCH"/>
+         <link refId="L09A2J"/>
+         <link refId="L06L2Y"/>
+         <link refId="L07QH1"/>
+        </route> 
+ 
+        <departures> 
+         <departure id="VJ0f901bfb673932ad2fa67235835f65fb2b11591e" departureTime="05:25:00" vehicleRefId="bus_6753_061"/>
+         <departure id="VJ2abce02f721e48d75414ce811b0fafbdc7a734af" departureTime="05:45:00" vehicleRefId="bus_6753_062"/>
+         <departure id="VJc59d1e3cf7d09dc2375c4b2f4d05be1f1b7440f7" departureTime="06:05:00" vehicleRefId="bus_6753_063"/>
+         <departure id="VJ67865fe61f3e016ffd62deff2a5b15fc21ed49ac" departureTime="06:25:00" vehicleRefId="bus_6753_064"/>
+         <departure id="VJbcc27b572be9ba32d4eaff1fd2917c73e3b935b7" departureTime="09:00:00" vehicleRefId="bus_6753_065"/>
+         <departure id="VJb7d0f532f40883dbd29581401b126a60be015519" departureTime="12:40:00" vehicleRefId="bus_6753_066"/>
+         <departure id="VJa37d4a640f844620c1f8fe5bf0959e202c39dfde" departureTime="09:20:00" vehicleRefId="bus_6753_067"/>
+         <departure id="VJe18dd04ea9a31c2896e119ca6678fbe68a997442" departureTime="13:00:00" vehicleRefId="bus_6753_068"/>
+         <departure id="VJ272e140f3ca38ab0701c5029a7dc49ae23544318" departureTime="11:00:00" vehicleRefId="bus_6753_069"/>
+         <departure id="VJfe59e16d27b9909ffef1fbe93fcde2f18975bab1" departureTime="11:40:00" vehicleRefId="bus_6753_070"/>
+         <departure id="VJ368b648b93a46e562d58121d8e7be6087513a0d7" departureTime="10:40:00" vehicleRefId="bus_6753_071"/>
+         <departure id="VJ230984e3ae67eeb86d9ef3176650f156867d5312" departureTime="09:40:00" vehicleRefId="bus_6753_072"/>
+         <departure id="VJ02dc8b3dc5f62c285b0d9c0ccaf57496559bbc09" departureTime="13:20:00" vehicleRefId="bus_6753_073"/>
+         <departure id="VJ7fea18ab01421f7f45b9ad461ab4f49a89ee664b" departureTime="12:00:00" vehicleRefId="bus_6753_074"/>
+         <departure id="VJ36881bf6a94ab81760e926d66fb326ef43a28e72" departureTime="10:00:00" vehicleRefId="bus_6753_075"/>
+         <departure id="VJ3883628e6f1a7fb3549eeead33b1fd9350d7716c" departureTime="13:40:00" vehicleRefId="bus_6753_076"/>
+         <departure id="VJb09dc9965f3a4fbed95b55902bc8530286d45d26" departureTime="12:20:00" vehicleRefId="bus_6753_077"/>
+         <departure id="VJ300abdc6a60c57e46331c0ba6380a4a2c3fd50ed" departureTime="11:20:00" vehicleRefId="bus_6753_078"/>
+         <departure id="VJfc27718193c9e926fbd2471796e38ff990c81a41" departureTime="10:20:00" vehicleRefId="bus_6753_079"/>
+         <departure id="VJa5fbea5e77ec316c48825932fc8f55df8bd92efd" departureTime="16:30:00" vehicleRefId="bus_6753_080"/>
+         <departure id="VJcc3791c85fdea168b72f74c8ac5d860006572cdc" departureTime="16:50:00" vehicleRefId="bus_6753_081"/>
+         <departure id="VJfee84d0c5afdff561b93831019b772d2640bbbfa" departureTime="14:40:00" vehicleRefId="bus_6753_082"/>
+         <departure id="VJ67025953090a365b155b0263be115d7db4ebeee5" departureTime="15:25:00" vehicleRefId="bus_6753_083"/>
+         <departure id="VJ5fcab28da26fc1cb54d700144d29e84e535d0946" departureTime="15:45:00" vehicleRefId="bus_6753_084"/>
+         <departure id="VJe1a6d6eff0a390404e6577f8b26edf4c215d33ce" departureTime="16:05:00" vehicleRefId="bus_6753_085"/>
+         <departure id="VJc1968db9800bc511e174369f8933efdf8bc5aef9" departureTime="15:00:00" vehicleRefId="bus_6753_086"/>
+         <departure id="VJ026224730f48fcd3560f257c8771d8771eee2dbd" departureTime="06:55:00" vehicleRefId="bus_6753_087"/>
+         <departure id="VJ6eb5e21a747f3d43449f04235e76d8aef3d96b60" departureTime="07:15:00" vehicleRefId="bus_6753_088"/>
+         <departure id="VJad3e7ffa7bf909a558d577903e8d35999a60e003" departureTime="08:00:00" vehicleRefId="bus_6753_089"/>
+         <departure id="VJ02717a44297cfc0eeca97493b5f6a059bbd5bfe8" departureTime="08:20:00" vehicleRefId="bus_6753_090"/>
+         <departure id="VJ4eaaa07f361c45f329aed94ec610edf82339189d" departureTime="07:35:00" vehicleRefId="bus_6753_091"/>
+         <departure id="VJ353130080cdf317713c5fdf04b054e32f016f50c" departureTime="14:20:00" vehicleRefId="bus_6753_092"/>
+         <departure id="VJ2c421c585df57f0844f6a3e91e1f03d8a774f8a0" departureTime="08:40:00" vehicleRefId="bus_6753_093"/>
+         <departure id="VJda4d24095561857600d831176142ea37fea79f3d" departureTime="06:40:00" vehicleRefId="bus_6753_094"/>
+         <departure id="VJd833c34615b19b473e1eea96740b03ea84764a68" departureTime="14:00:00" vehicleRefId="bus_6753_095"/>
+        </departures> 
+      </transitRoute> 
+ 
+ 
+   </transitLine> 
+</transitSchedule> 
