@@ -8,8 +8,8 @@ library(sf)
 library(hms)
 library(janitor)
 
-source('~/matsim/pt/rScript/makeNetwork.R')
-setwd("~/matsim/pt")
+#source('~/matsim/pt/rScript/makeNetwork.R')
+setwd("C:/Users/tom.alexander1/OneDrive - West Of England Combined Authority/Transport/7.0 Data/03 Analysis Projects/matsim_pt/matsim_pt")
 
 #### IMPORTING ####
 
@@ -22,7 +22,7 @@ routes <- read_csv("gtfs/routes.txt", col_names = TRUE)
 trips <- read_csv("gtfs/trips.txt", col_names = TRUE)
 calendar <- read_csv("gtfs/calendar.txt", col_names = TRUE)
 #stops <- read_csv("gtfs/stops.txt") #gtfs stops file doesn't include bearing which is needed to allocate link
-stops <- readRDS("naptan/naptanStops20231011.Rds")
+stops <- readRDS("rds/naptan/naptanStops20231011.rds")
 
 
 
@@ -31,10 +31,16 @@ stops <- readRDS("naptan/naptanStops20231011.Rds")
 calendar <- calendar %>% filter(monday == 1 & tuesday == 1 & wednesday == 1 & thursday == 1 & friday == 1)
 mfServices <- calendar$service_id
 
-routes <- routes %>% filter( route_id %in% WofEroutes) # gets 1 & 7 route info
+WofEroutes <- c(6515, 6753) # 6513 = 6 Bristol-Kingswood, # 6753 = 7 Bristol-Mangotsfield
 
-#routes <- routes %>% filter( route_id == 10230 |route_id == 3275 | route_id == 7097)
-trips <- trips %>% filter( route_id %in% WofEroutes) %>% filter(service_id %in% mfServices)
+# if WofEroutes object is present, filter routes for specified routes 
+
+if(exists("WofEroutes")){
+  routes <- routes %>% filter( route_id %in% WofEroutes) # gets 6 & 7 route info
+  trips <- trips %>% filter( route_id %in% WofEroutes)
+}
+
+trips <- trips %>% filter(service_id %in% mfServices)
 trips <- trips %>% group_by(route_id) %>% mutate(vehicle = n_distinct(trip_id))
 suppressWarnings( trips <- trips %>%  mutate(vehicle = 1:vehicle) )
 trips <- trips %>% mutate(vehicle = str_pad(vehicle,3,side = "left",pad = "0")) %>% 

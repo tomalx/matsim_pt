@@ -1,0 +1,6 @@
+
+#ignore all link and node .shp files
+shp\*.*
+
+#ignore all gtfs txt files
+gtfs\*.txt
