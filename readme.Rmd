@@ -1,0 +1,76 @@
+---
+title: "Create Public Transport Input Files for MATSim"
+author: "tomalx"
+date: "29/03/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## formatGTFS
+
+The formatGTFS.R script imports a series of txt files which have been downloaded from https://data.bus-data.dft.gov.uk/timetable/download/.
+
+After import the files are formatted so that they are ready to be used in subsequent scripts.
+
+The files that are created are:  
+- stops (not used - NaPTAN stops used instead)  
+- stop times  
+- routes  
+- agency  
+- trips 
+
+## createStopsDF
+
+The GTFS feed contains a stops text file, however there are insufficient attributes in this file for our purposes. Therefore we need to download the naptan stops list from:  
+https://naptan.app.dft.gov.uk/DataRequest/Naptan.ashx?format=csv&LA=010|017|018|019  
+The numbers at the end of this URL refer to local authority codes (010 - BCC, 017 - SGC, 018 - B&NES, 019 - NSC).
+The local authority codes and other information on the NaPTAN data set can be found here https://naptan.app.dft.gov.uk/DataRequest/help.  
+The NaPTAN stops list contains a *bearing* field which can be used in combination with the network links (see below) to assign a specific link to each stop. By using the *bearing* field in this process, it ensures that the link heading in the correct direction (and not the link on the opposite side of the road) is assigned to the bus stop.
+
+
+## makeNetwork
+
+This script uses the sfnetworks package to create a network object. The links and nodes are extracted from this network object. 
+
+The sfnetworks package enables routing. This routing functionality is required to create a list of links for each route variant in the schedule xml file. The **pathOfLinks.R** script achieves this goal. **noBusLinks.R** reduces the total number of links, removing specific which would otherwise mean that the **pathOfLinks.R** script picks the wrong route for some bus services.
+
+## pathOfLinks
+
+This script creates a path of links for each bus route - i.e. the route that the bus takes. As noted above, the links from a sf network object are required to perform this routing operation.
+
+The output of this function is a pathLinks df which contains the "edge_paths" or "links" of each route in order. Some routes have several different sequences of links - the variable "service_id3" is used to differentiate these variations.
+
+## createPTxml
+
+The **createPTxml.R** script brings together all the above scripts and creates an xml file in the PT folder. The other scripts are run from inside the createPTxml using the **source** function therefore they do not need to be opened and run separately.
+
+The xml file is created from the following data frames:  
+- routes (each row corresponds to a bus route - usually identified with a number e.g. 178 or 5)  
+- services  (all unique variations for each bus route)  
+- stopTimes  (each row corresponds to a bus calling at/passing a bus stop)  
+- stops  (NaPTAN stops)  
+- departures  (departure times for each bus service)  
+
+
+## offsetLinksFunction (obsolete)
+
+This function jitters the links so that each link is positioned closer to the left hand side kerb for its direction of travel. So instead of having two links with identical geometries, albeit pointing in opposite directions, the two links have slightly different geometries, offset from one another.
+
+This is important when it comes to assigning a link to a bus stop. It is important that the link heading in the right direction is assigned to each bus stop. Without the offsetLinks function the link heading in the opposite direction might be assigned to the bus stop.
+
+This script also contains another function **sfc_as_cols**, which adds X and Y variables.
+
+The two functions (**offsetLinks** and **sfc_as_cols**) are used within the formatGTFS script.
+
+The **offsetLinks** function is now obsolete in the process of creating the PT xml files. However could still be useful for visualisation.
+
+
+
+
+
+
+
+
